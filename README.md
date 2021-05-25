@@ -9,21 +9,21 @@
 1. Queue :     
    백준 : 18258, 11866, 2164   
    프로그래머스 : 코딩테스트 연습> 고득점 kit > 스택/큐 문제 다 푸세요.  
-   [] 곽윤창  
-   [] 이태양  
-   [] 이현구  
+   [ ] 곽윤창  
+   [ ] 이태양  
+   [ ] 이현구  
 
 
 
 
 
-1. [] Queue
-2. [] Deque
-3. [] Stack
-4. [] Heap
-5. [] Linked List
-6. [] Tree
-7. [] Graph
+1. [ ] Queue
+2. [ ] Deque
+3. [ ] Stack
+4. [ ] Heap
+5. [ ] Linked List
+6. [ ] Tree
+7. [ ] Graph
 
 
 
