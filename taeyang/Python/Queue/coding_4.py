@@ -1,5 +1,5 @@
 import sys
-
+''' 프로그래머스 기능 개발 '''
 def solution(progresses, speeds):
     answer = []
 
