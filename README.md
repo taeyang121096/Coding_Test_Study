@@ -25,8 +25,8 @@
 
 ## __자료구조_종류__
 
-1. [ ] Queue
-2. [ ] Deque
+1. [x] Queue
+2. [x] Deque
 3. [ ] Stack
 4. [ ] Heap
 5. [ ] Linked List
