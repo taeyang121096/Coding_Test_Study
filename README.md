@@ -1,6 +1,6 @@
 # Coding_Test_Study
 
-## **Participant** : *이태양*, *이현구*, *곽윤창* :exclamation::exclamation::exclamation:   
+## **Participant** : *이태양*, *이현구*, *곽윤창*, *김가정* :exclamation::exclamation::exclamation:   
 ## **commit** 안할경우 벌금 있어요 :smiling_imp::smiling_imp::smiling_imp:
 ## **Language** : **Java**
 
@@ -12,13 +12,15 @@
    프로그래머스 : 코딩테스트 연습> 고득점 kit > 스택/큐 문제 다 푸세요.  
 - [x] 이태양   
 - [ ] 곽윤창  
-- [x] 이현구  
+- [x] 이현구
+- [ ] 김가정  
 
 2. Deque :
    백준 : 10866, 1021, 5430     
 - [x] 이태양   
 - [ ] 곽윤창  
-- [ ] 이현구 
+- [ ] 이현구
+- [ ] 김가정     
 
 
 
