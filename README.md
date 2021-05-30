@@ -2,7 +2,7 @@
 
 ## **Participant** : *이태양*, *이현구*, *곽윤창*, *김가정* :exclamation::exclamation::exclamation:   
 ## **commit** 안할경우 벌금 있어요 :smiling_imp::smiling_imp::smiling_imp:
-## **Language** : **Java**
+## **Language** : **Java** & **Python**
 
 ## _자료구조_
 **순서대로 푸세요** 👉👉👉
