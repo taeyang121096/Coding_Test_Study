@@ -4,8 +4,6 @@ stack = []
 result = True
 
 number = 1
-stack.append(1)
-answer.append('+')
 for i in range(1, n+1):
     data = int(input())
     while number <= data:
