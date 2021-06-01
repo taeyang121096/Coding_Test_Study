@@ -1,6 +1,7 @@
 from itertools import product
 ''' product를 사용할려고 했는데 일단 중복 순열이라는 것을 알았지만
     막상 사용할 방법이 없어서 중복 순열 방식의 수학적 접근으로 해결함
+    프로그래머스 위장
 '''
 
 def solution(clothes):
