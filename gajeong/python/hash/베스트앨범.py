@@ -21,13 +21,14 @@ def solution(genres, plays):
     for i in genres_plays:
         i.sort(key=lambda x: x[1], reverse=True)
 
+    # genres_plays는 3중 배열로, [장르별[[인덱스, count]]]
     for i in genres_plays:
-        print(i)
         if len(i) < 3:
             answer.append(i[1][0])
         else:
             for j in range(1, 3):
                 answer.append(i[j][0])
+    print(genres_plays)
     return answer
 
 
