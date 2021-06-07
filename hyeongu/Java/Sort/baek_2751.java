@@ -7,17 +7,17 @@ public class baek_2751 {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringBuilder sb = new StringBuilder();
         
-		int N = Integer.parseInt(br.readLine());
+		int N = Integer.parseInt(br.readLine()); 
 		int[] A = new int[N];
 		
 		for(int i = 0; i < N; i++) {
 			A[i] = Integer.parseInt(br.readLine());
 		}
  
-		insertionSort(A);
+		mergeSort(A, 0, N-1);
 		
 		for(int i = 0; i< N; i++) {
-			sb.append(A[i]).append('\n');
+			System.out.println(A[i]);
 		}
 		System.out.println(sb);
 	}
@@ -67,6 +67,32 @@ public class baek_2751 {
 				j--;
 			}
 			arr[j+1] = temp;
+		}
+	}
+	
+	//합병정렬
+	public static void mergeSort(int[] arr, int start, int end) {
+		if(start<end) {
+			int mid = (start+end)/2;
+			mergeSort(arr, start, mid);
+			mergeSort(arr, mid+1, end);
+			
+			int[] temp = new int[arr.length+1];
+			
+			int idx = start;
+			int p = start;
+			int q = mid + 1;
+			
+			while(p<=mid&&q<=end) {
+				if(arr[p]<arr[q]) temp[idx++] = arr[p++];
+				else temp[idx++] = arr[q++];
+			}
+			while(p<=mid) temp[idx++] = arr[p++];
+			while(q<=end) temp[idx++] = arr[q++];
+			
+			for(int i = start; i<=end;i++) {
+				arr[i] = temp[i];
+			}
 		}
 	}
 }
