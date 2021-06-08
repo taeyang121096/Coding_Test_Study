@@ -5,7 +5,7 @@ def solution(numbers):
     data = numbers.copy()
     data = list(map(str, data))
     data.sort(key=lambda x: x*3, reverse=True)
-    ''.join(data)
+    answer = ''.join(data)
     return answer
 
 
