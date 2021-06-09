@@ -1,4 +1,8 @@
 {
   "python.pythonPath": "C:\\Users\\rlark\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
-  "editor.tabSize": 2
+  "editor.tabSize": 2,
+  "[python]": {
+
+    "editor.wordBasedSuggestions": false
+  }
 }
