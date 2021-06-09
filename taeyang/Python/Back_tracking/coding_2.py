@@ -4,11 +4,13 @@ import sys
 
 N, M = map(int, sys.stdin.readline().rstrip().split())
 temp = []
+
+
 def back_tracking():
     if len(temp) == M:
-        return print(' '.join(map(str,temp)))
+        return print(' '.join(map(str, temp)))
 
-    for i in range(1,N+1):
+    for i in range(1, N+1):
 
         if temp:
             if temp[-1] > i:
@@ -18,5 +20,5 @@ def back_tracking():
             back_tracking()
             temp.pop()
 
-back_tracking()
 
+back_tracking()
