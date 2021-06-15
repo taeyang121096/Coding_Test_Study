@@ -48,6 +48,6 @@
 				answer_start = start;
 			}
 		}
-		int[] answer = {answer_start +1, answer_start +end};
+		int[] answer = {answer_start +1, answer_start + end + 1};
 		return answer;
 	}
