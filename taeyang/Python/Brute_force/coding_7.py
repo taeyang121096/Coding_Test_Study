@@ -3,32 +3,36 @@ import sys
 
 L, C = map(int, sys.stdin.readline().rstrip().split())
 char = sys.stdin.readline().rstrip().split()
-
-ans = []
+char.sort()
+ans = set()
 cipher =''
-vcount = 0
 vowel ='aeiou'
 
-def dfs(n):
-    global cipher, vcount
+def dfs(index, n):
+    global cipher
 
     if n == L:
+        vcount, mcount = 0,0
         for i in cipher:
             if i in vowel:
-                sort = ''.join(sorted(cipher))
-                if cipher == sort:
-                    ans.append(cipher)
-                    return
+                vcount += 1
+            else:
+                mcount += 1
+        if vcount >= 1 and mcount >= 2:
+            ans.add(''.join(sorted(cipher)))
         return
 
-    for i in char:
+    for i in char[index:]:
         if i not in cipher:
             cipher += i
             n += 1
-            dfs(n)
+            index += 1
+            dfs(index, n)
             cipher = cipher[:-1]
             n -= 1
 
-dfs(0)
-ans.sort()
-print(ans)
+
+dfs(0, 0)
+ans = sorted(list(ans))
+for i in ans:
+    print(i)
