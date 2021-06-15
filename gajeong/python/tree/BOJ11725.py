@@ -10,7 +10,6 @@ parent_info = [0]*(n+1)
 visit = [False]*(n)
 
 while True:
-    print(visit)
     if False not in visit:
         break
     p = parent.get()
