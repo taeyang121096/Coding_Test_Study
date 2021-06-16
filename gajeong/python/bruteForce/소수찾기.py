@@ -20,7 +20,6 @@ def solution(numbers):
 
     for i in range(1, len(numbers)+1):
         combi = set(permutations(numbers, i))
-        print(combi)
         for j in combi:
             t = False
             s = ''
@@ -29,7 +28,6 @@ def solution(numbers):
                 s += num
                 if s == '0':
                     s = ''
-            print(s)
             if s != '':
                 t = is_prime(eval(s))
             if t == True:
