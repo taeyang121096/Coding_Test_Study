@@ -12,23 +12,21 @@ for i in range(test):
       continue
 
     count = 0
-    idx = m
     while queue:
-      print(queue,count,idx)
-      if idx==0 and queue[0]==max(queue):
+      if m==0 and queue[0]==max(queue):
         break
       if queue[0]==max(queue):
         queue.popleft()
-        idx-=1
+        m-=1
         count+=1
-        if idx<0:
-          idx=len(queue)-1
+        if m<0:
+          m=len(queue)-1
       else:
         n = queue.popleft()
         queue.append(n)
-        idx -=1
-        if idx<0:
-          idx=len(queue)-1
+        m -=1
+        if m<0:
+          m=len(queue)-1
     answer.append(count+1)
 
 for ans in answer:

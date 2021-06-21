@@ -1,7 +1,6 @@
 {
   "editor.tabSize": 2,
   "[python]": {
-
     "editor.wordBasedSuggestions": false
   },
   "editor.defaultFormatter": "esbenp.prettier-vscode",
