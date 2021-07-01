@@ -17,6 +17,7 @@ def solution(N, number):
                     case.append(a+b)
                     case.append(a-b)
                     case.append(b-a)
+                    case.append(a*b)
                     if a != 0:
                         case.append(b/a)
                     if b != 0:
