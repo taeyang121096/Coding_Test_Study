@@ -6,7 +6,8 @@ def isPrime(num):
     if num == 1:
         return
     else:
-        for i in range(2,num):
+        '''소수는 자신의 반 아래만 체크 해주면 된다!! ex) 16 일경우 -> 2 * 8 이므로 8까지만 체크 해주면 된다.'''
+        for i in range(2,num//2+1):
             if num % i == 0:
                 flag = False
                 break

@@ -3,19 +3,23 @@ import sys
 
 n,m = map(int,sys.stdin.readline().rstrip().split(' '))
 a = list(map(int, sys.stdin.readline().rstrip().split(' ')))
-lt, rt = 0,0
 count = 0
-while rt < len(a):
-    sumnum = 0
-
-    for i in range(lt,rt+1):
-        sumnum += a[i]
-    if sumnum == m:
+lt,rt =0,1
+tot = a[0]
+while True:
+    if tot<m:
+        if rt<n:
+            tot+=a[rt]
+            rt+=1
+        else:
+            break
+    elif tot == m:
         count += 1
+        tot -= a[lt]
         lt += 1
-        rt += 1
-    elif sumnum > m:
+    else:
+        tot -= a[lt]
         lt += 1
-    elif sumnum < m:
-        rt += 1
+
+
 print(count)
