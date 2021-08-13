@@ -1,5 +1,6 @@
-class Solution {
-    
+package kakao;
+
+class Solution {    
     static int[][] value;
     static int[] leastA;
     static int[] leastB;

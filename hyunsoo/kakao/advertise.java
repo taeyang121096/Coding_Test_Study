@@ -1,5 +1,5 @@
 /* 2021 KAKAO BLIND RECRUITMENT 광고삽입 */
-import java.util.*;
+package kakao;
 class Solution {        
     static int[] time;
     
