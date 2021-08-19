@@ -81,9 +81,7 @@ class Solution {
 출처 : https://velog.io/@courage331/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4Java-%EC%88%9C%EC%9C%84%EA%B2%80%EC%83%89
 */
 
-
-import java.util.*;
-class Solution {   
+class Solution2 {   
     
     Map<String, ArrayList<Integer>> map = new HashMap();
     
