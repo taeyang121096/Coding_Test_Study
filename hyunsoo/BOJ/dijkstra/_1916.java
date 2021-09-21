@@ -1,4 +1,4 @@
-package BOJ.Bellman_Ford;
+package BOJ.dijkstra;
 import java.util.*;
 import java.io.*;
 public class _1916 {
