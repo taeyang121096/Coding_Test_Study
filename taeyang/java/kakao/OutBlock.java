@@ -6,6 +6,7 @@ public class OutBlock {
         static List<int[]> dlist = new ArrayList<>();
         static int N;
         static int size;
+        static boolean [] check;
         static void make(int start, int[] weak){
             int[] tmp = new int[weak.length];
             int index = 0;
@@ -16,14 +17,22 @@ public class OutBlock {
             list.add(tmp);
         }
 
-        static void make_dist(int start, int[] dist){
-            int[] tmp = new int[dist.length];
-            int index = 0;
-            for(int i = start;i<dist.length;i++)
-                tmp[index++] = dist[i];
-            for(int i = 0;i<start;i++)
-                tmp[index++] = dist[i];
-            dlist.add(tmp);
+        static void make_dist(int start, int[] dist,int level, int[] val){
+            if(level == size){
+                int[] tmp = val.clone();
+                dlist.add(tmp);
+                return;
+            }
+
+            for(int i = 0;i<size;i++){
+                if(check[i])
+                    continue;
+                val[level] = dist[i];
+                check[i] = true;
+                make_dist(i+1,dist,level+1,val);
+                check[i] = false;
+            }
+
         }
 
         static int check(){
@@ -64,13 +73,11 @@ public class OutBlock {
 
             N = n;
             size = dist.length;
+            check = new boolean[size];
             for(int i = 0;i<weak.length;i++){
                 make(i,weak);
             }
-            for(int i = 0;i<size;i++){
-                make_dist(i,dist);
-            }
-
+            make_dist(0,dist,0,new int[size]);
 
             answer = check();
             if(answer == Integer.MAX_VALUE)
