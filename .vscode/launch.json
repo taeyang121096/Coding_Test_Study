@@ -1,0 +1,406 @@
+{
+  // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+  // 기존 특성에 대한 설명을 보려면 가리킵니다.
+  // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch _11657",
+      "request": "launch",
+      "mainClass": "BOJ.Bellman_ford._11657",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _16916",
+      "request": "launch",
+      "mainClass": "BOJ.KMP._16916",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _1197",
+      "request": "launch",
+      "mainClass": "BOJ.Kruskal._1197",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _2252",
+      "request": "launch",
+      "mainClass": "BOJ.Topological_Sort._2252",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _1806",
+      "request": "launch",
+      "mainClass": "BOJ.TwoPointer._1806",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _1038",
+      "request": "launch",
+      "mainClass": "BOJ._1038",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _12015",
+      "request": "launch",
+      "mainClass": "BOJ._12015",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _14719",
+      "request": "launch",
+      "mainClass": "BOJ._14719",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _17070",
+      "request": "launch",
+      "mainClass": "BOJ._17070",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _2583",
+      "request": "launch",
+      "mainClass": "BOJ._2583",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _5430",
+      "request": "launch",
+      "mainClass": "BOJ._5430",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _1182",
+      "request": "launch",
+      "mainClass": "BOJ.backTracking._1182",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _12026",
+      "request": "launch",
+      "mainClass": "BOJ.backTracking._12026",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _12851",
+      "request": "launch",
+      "mainClass": "BOJ.backTracking._12851",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _16953",
+      "request": "launch",
+      "mainClass": "BOJ.backTracking._16953",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _1759",
+      "request": "launch",
+      "mainClass": "BOJ.backTracking._1759",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _10818",
+      "request": "launch",
+      "mainClass": "BOJ.basicCheck._10818",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _10870",
+      "request": "launch",
+      "mainClass": "BOJ.basicCheck._10870",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _11058",
+      "request": "launch",
+      "mainClass": "BOJ.basicCheck._11058",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _1260",
+      "request": "launch",
+      "mainClass": "BOJ.basicCheck._1260",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _12865",
+      "request": "launch",
+      "mainClass": "BOJ.basicCheck._12865",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _1292",
+      "request": "launch",
+      "mainClass": "BOJ.basicCheck._1292",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _1303",
+      "request": "launch",
+      "mainClass": "BOJ.basicCheck._1303",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _1312",
+      "request": "launch",
+      "mainClass": "BOJ.basicCheck._1312",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _1495",
+      "request": "launch",
+      "mainClass": "BOJ.basicCheck._1495",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _15486",
+      "request": "launch",
+      "mainClass": "BOJ.basicCheck._15486",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _15989",
+      "request": "launch",
+      "mainClass": "BOJ.basicCheck._15989",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _1743",
+      "request": "launch",
+      "mainClass": "BOJ.basicCheck._1743",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _1890",
+      "request": "launch",
+      "mainClass": "BOJ.basicCheck._1890",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _1978",
+      "request": "launch",
+      "mainClass": "BOJ.basicCheck._1978",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _2178",
+      "request": "launch",
+      "mainClass": "BOJ.basicCheck._2178",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _2293",
+      "request": "launch",
+      "mainClass": "BOJ.basicCheck._2293",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _2294",
+      "request": "launch",
+      "mainClass": "BOJ.basicCheck._2294",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _2309",
+      "request": "launch",
+      "mainClass": "BOJ.basicCheck._2309",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _2460",
+      "request": "launch",
+      "mainClass": "BOJ.basicCheck._2460",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _2501",
+      "request": "launch",
+      "mainClass": "BOJ.basicCheck._2501",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _2606",
+      "request": "launch",
+      "mainClass": "BOJ.basicCheck._2606",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _2609",
+      "request": "launch",
+      "mainClass": "BOJ.basicCheck._2609",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _2667",
+      "request": "launch",
+      "mainClass": "BOJ.basicCheck._2667",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _2693",
+      "request": "launch",
+      "mainClass": "BOJ.basicCheck._2693",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _3460",
+      "request": "launch",
+      "mainClass": "BOJ.basicCheck._3460",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _1062",
+      "request": "launch",
+      "mainClass": "BOJ.bruteForce._1062",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _1753",
+      "request": "launch",
+      "mainClass": "BOJ.dijkstra._1753",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _1916",
+      "request": "launch",
+      "mainClass": "BOJ.dijkstra._1916",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _11052",
+      "request": "launch",
+      "mainClass": "BOJ.dp._11052",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _11726",
+      "request": "launch",
+      "mainClass": "BOJ.dp._11726",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _11727",
+      "request": "launch",
+      "mainClass": "BOJ.dp._11727",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _12865(1)",
+      "request": "launch",
+      "mainClass": "BOJ.dp._12865",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _3687",
+      "request": "launch",
+      "mainClass": "BOJ.dp._3687",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _9095",
+      "request": "launch",
+      "mainClass": "BOJ.dp._9095",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _1700",
+      "request": "launch",
+      "mainClass": "BOJ.greedy._1700",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _14888",
+      "request": "launch",
+      "mainClass": "BOJ.recursive._14888",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _12100",
+      "request": "launch",
+      "mainClass": "BOJ.samsungSW._12100",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _13458",
+      "request": "launch",
+      "mainClass": "BOJ.samsungSW._13458",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _13460",
+      "request": "launch",
+      "mainClass": "BOJ.samsungSW._13460",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _3190",
+      "request": "launch",
+      "mainClass": "BOJ.samsungSW._3190",
+      "projectName": "Coding_Test_Study_b7477a41"
+    }
+  ]
+}

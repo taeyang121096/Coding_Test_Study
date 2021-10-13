@@ -1,102 +1,146 @@
-package hyunsoo.BOJ.samsungSW;
+package BOJ.samsungSW;
 import java.util.*;
 import java.io.*;
 public class _13460 {
     
   static class node{
-    int x;
-    int y;
-    node R;
-    node B;
+    int rx;
+    int ry;
+    int bx;
+    int by;
     int move;
-    public node(int x, int y){
-      this.x=x;
-      this.y=y;
-    }
-    public node(node R, node B, int move){
-      this.R=R;
-      this.B=B;
+    public node(int rx, int ry, int bx, int by,int move){
+      this.rx=rx;
+      this.ry=ry;
+      this.bx=bx;
+      this.by=by;
       this.move=move;
     }
   }
-  static node blue;
-  static node red;
-  static node hole;
+  static boolean success=false;
+  static int answer=-1;
   static char[][] board;
   static int[] dx={1,-1,0,0};
   static int[] dy={0,0,1,-1};
-  static boolean[][] Cred;
-  static boolean[][] Cblue;
+  static boolean[][][][] visit; 
+
+  static Queue<node> q= new LinkedList<>();
   public static void main(String[] args) throws IOException{
       BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
       String[] tmp = br.readLine().split(" ");
       int N = Integer.parseInt(tmp[0]);
       int M = Integer.parseInt(tmp[1]);
-      Cred=new boolean[N][M];
-      Cblue=new boolean[N][M];
+      visit=new boolean[N][M][N][M];
       board= new char[N][M];
-      for(int i=0; i<M; i++){
+      int rx=0,ry=0,bx=0,by=0;
+      for(int i=0; i<N; i++){
         String t = br.readLine();
-        for(int j=0; j<N; j++){
+        for(int j=0; j<M; j++){
           board[i][j]=t.charAt(j);
           if(board[i][j]=='B'){
-            blue = new node(i,j);
+            bx=i;
+            by=j;
             board[i][j]='.';
           }
           if(board[i][j]=='R'){
-            red= new node(i,j);
+            rx=i;
+            ry=j;
             board[i][j]='.';
           }
-          if(board[i][j]=='O'){
-            hole=new node(i,j);
-          }
         }
-      } 
-      
-      node master = new node(red,blue,0);
-      Queue<node> q= new LinkedList<>();
+      }
+      visit[rx][ry][bx][by]=true;
+      node master = new node(rx,ry,bx,by,0);
       q.offer(master);
-
       while(!q.isEmpty()){
         node t = q.poll();
-        int rx=t.R.x;
-        int ry=t.R.y;
-        int bx=t.B.x;
-        int by=t.B.y;
-        System.out.println(rx+":"+ry+","+bx+":"+by);
-        if(t.move>10) {
-          System.out.print(-1);
+        int _rx=t.rx;
+        int _ry=t.ry;
+        int _bx=t.bx;
+        int _by=t.by;
+        int _move=t.move;
+        //System.out.println(_rx+":"+_ry+" , "+_bx+":"+_by+"=" +_move);
+        if(_move>=10){
+          System.out.println(answer);
           return;
         }
-        Cred[rx][ry]=true;
-        Cblue[bx][by]=true;
         
-        for(int i=0; i<4; i++){
-          int Rx= rx+dx[i];
-          int Ry= ry+dy[i];
-          int Bx= bx+dx[i];
-          int By= by+dy[i];
-
-          if(board[Bx][By]=='O'){  //blue가 홀에 빠진 경우
-            continue; 
-          }else if(board[Rx][Ry]=='O'){
-            System.out.println(t.move+1);
+        for(int i=0; i<4; i++){    
+          move(_rx,_ry,_bx,_by,_move,i);
+          if(success){
+            System.out.println(answer);
             return;
-          }    
-          else if(board[Rx][Ry]=='.' && board[Bx][By]=='.' && (!Cred[Rx][Ry] || !Cblue[Rx][Ry])){ //둘다 이동가능한 경우  
-            q.offer(new node(new node(Rx,Ry),new node(Bx,By),t.move+1));
-          }else if(board[Rx][Ry]=='.' && !Cred[Rx][Ry]){   // red만 이동가능한경우
-            if(Rx==bx && Ry==by) continue;
-            q.offer(new node(new node(Rx,Ry),new node(bx,by),t.move+1)); 
-          }else if(board[Bx][By]=='.' && !Cblue[Bx][By]){     // blue만 이동가능한 경우
-            if(rx==Bx && ry==By) continue;
-            q.offer(new node(new node(rx,ry),new node(Bx,By),t.move+1)); 
           }
-
+        }
       }
+      System.out.println(answer);
+  }
 
+  public static void move(int rx, int ry, int bx, int by,int move, int mode){
+    
+    int _rx=rx;
+    int _ry=ry;
+    int _bx=bx;
+    int _by=by;
+
+    while(true){
+      int Rx= _rx + dx[mode];
+      int Ry= _ry + dy[mode];
+      int Bx= _bx + dx[mode];
+      int By= _by + dy[mode];
+      if(visit[Rx][Ry][Bx][By]) {  //이미 방문했던 곳이면 빠져나옴
+        return;
+      }  
+
+      if(board[Bx][By]=='O') return;  // 파란공이 빠지면 빠져나옴
+      else if(board[Rx][Ry]=='O'){   // 빨간공이 빠졌을 때, 해당 움직임에서 파란공도 같이 빠지는지를 파악
+        while(true){
+          if(board[Bx][By]=='#'){    //파란공이 벽을 만남 => 성공
+            success=true;
+            answer= move+1;
+            break;
+          }else if(board[Bx][By]=='O'){  // 빨간공과 파란공이 같이 빠짐
+            break;
+          }
+          Bx+=dx[mode];
+          By+=dy[mode];
+        }
+        return;
+      }else if(board[Rx][Ry]=='.' && board[Bx][By]=='.' && (!visit[Rx][Ry][Bx][By])){  //둘다 이동 가능하고 빨간공과 파란공 중 한개라도 이미 방문하지 않은 곳인 경우
+        _rx=Rx;
+        _ry=Ry;
+        _bx=Bx;
+        _by=By;
+      }else if(board[Rx][Ry]=='.'){  // 빨간 공만 이동 가능한 경우
+        if(Rx==_bx && Ry==_by){  // 빨간 공이 이동 가능한데 그 자리에 파란공이 있는 경우
+          if(!visit[_rx][_ry][_bx][_by]){  // 방문하지 않은 곳이라면 
+            visit[_rx][_ry][_bx][_by]=true;
+            q.offer(new node(_rx,_ry,_bx,_by,move+1));
+          }
+          return; 
+        }else{
+          _rx=Rx;
+          _ry=Ry;
+        }
+      }else if(board[Bx][By]=='.'){  // 파란 공만 이동 가능한 경우
+        if(Bx==_rx && By == _ry){ //파란 공이 이동 가능한데 그 자리에 빨간공이 있는 경우
+          if(!visit[_rx][_ry][_bx][_by]){  // 방문하지 않은 곳이라면 
+            visit[_rx][_ry][_bx][_by]=true;
+            q.offer(new node(_rx,_ry,_bx,_by,move+1));
+          }
+          return; 
+        }else{  
+          _bx=Bx;
+          _by=By;
+        }
+      }else{    //둘다 막혔을 경우
+         if(!visit[_rx][_ry][_bx][_by]){  // 방문하지 않은 곳이라면 
+            visit[_rx][_ry][_bx][_by]=true;
+            q.offer(new node(_rx,_ry,_bx,_by,move+1));
+          }
+          return; 
+      } 
     }
-
   }
 }
