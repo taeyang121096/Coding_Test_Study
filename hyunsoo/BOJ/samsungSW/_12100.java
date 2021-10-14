@@ -9,7 +9,6 @@ public class _12100 {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     n= Integer.parseInt(br.readLine());
     int[][] board=new int[n][n];
-    boolean[][] merge=new boolean[n][n];
     
     for(int i=0; i<n; i++){
       StringTokenizer st = new StringTokenizer(br.readLine()," ");
@@ -22,6 +21,7 @@ public class _12100 {
     for(int i=0; i<4; i++){
       move(i,0,board);
     }
+
     System.out.println(max);
   }
   public static void move(int index, int count, int[][] Board){
@@ -41,7 +41,7 @@ public class _12100 {
           
           if(board[j][i]!=0){
             for(int k=j-1; k>=0; k--){
-              
+            
               if(board[k][i]!=0){
                 if(board[k][i]==board[j][i] && (!merge[k][i] && !merge[j][i])) {
                   board[k][i]=board[k][i]*2;
