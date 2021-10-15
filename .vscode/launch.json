@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch _14500",
+      "request": "launch",
+      "mainClass": "BOJ.samsungSW._14500",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _14501",
+      "request": "launch",
+      "mainClass": "BOJ.samsungSW._14501",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
       "name": "Launch _14499",
       "request": "launch",
       "mainClass": "BOJ.samsungSW._14499",
