@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch _14503",
+      "request": "launch",
+      "mainClass": "BOJ.samsungSW._14503",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _14502",
+      "request": "launch",
+      "mainClass": "BOJ.samsungSW._14502",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _pretest",
+      "request": "launch",
+      "mainClass": "BOJ.nhnCommerce._pretest",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
       "name": "Launch _14500",
       "request": "launch",
       "mainClass": "BOJ.samsungSW._14500",

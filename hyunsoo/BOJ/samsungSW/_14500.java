@@ -24,7 +24,13 @@ public class _14500 {
         board[i][j]=Integer.parseInt(st.nextToken());
       }
     }
-
+    /**
+     *  000
+     *  000
+     *  000
+     * 
+     * 
+     */
     for(int i=0; i<N; i++){
       for(int j=0; j<M; j++){
         if(!visit[i][j]){

@@ -15,6 +15,7 @@ public class _14501 {
 
     for(int i=1; i<=N; i++){
       dp[i]=Math.max(dp[i-1],dp[i]);
+      
       if(i+arr[i][0]-1>N){
         continue;
       }
