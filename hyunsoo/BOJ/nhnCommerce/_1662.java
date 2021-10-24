@@ -32,6 +32,7 @@ public class _1662 {
       }
     }
 
+  
     for(int i=0; i<point; i++){
       answer += stack[i].length();
     }
