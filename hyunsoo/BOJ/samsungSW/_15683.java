@@ -57,7 +57,7 @@ public class _15683 {
   
   public static void made(int index){
     
-
+    // 1  4가지 방향 , 2 번때 2가지, 3번 4개 , 4 번 4개,  5번 1
     if(index== list.size()){
       int ans = count();
       min = Math.min(min, area - ans);
@@ -126,7 +126,7 @@ public class _15683 {
         int y1 = ty;
         int x2 = tx;
         int y2 = ty;
-        
+     
         while(true){
           x1 = x1 + dx[tmp.direct];
           y1 = y1 + dy[tmp.direct];
@@ -153,7 +153,7 @@ public class _15683 {
         }
       }else if(tmp.type==3){
         int x1 = tx;
-        int y1 = ty;
+        int y1 = ty; 
         int x2 = tx;
         int y2 = ty;
         
