@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch _1935",
+      "request": "launch",
+      "mainClass": "hyunsoo.BOJ.code_plus._1935",
+      "projectName": "Coding_Test_Study_11decff4"
+    },
+    {
+      "type": "java",
       "name": "Launch _10799",
       "request": "launch",
       "mainClass": "hyunsoo.BOJ.code_plus._10799",
