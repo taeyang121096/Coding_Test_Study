@@ -5,81 +5,57 @@ public class _1918 {
     Scanner sc = new Scanner(System.in);
     String str = sc.nextLine();
 
-    char[] calcul = new char[str.length()];
-    char[] stack = new char[str.length()];
-    int calPoint=0;
-    int calPoint2=0;
-    int Point=0;
-    boolean multiDivde =false;
+    String answer = "";
+    Stack<String> stack = new Stack<>();
 
     for(int i=0; i<str.length(); i++){
       char c = str.charAt(i);
-      System.out.println(calPoint+" "+calPoint2);
-      
-      if(c=='(' || c==')'){
-        if(c=='('){     
-          calcul[calPoint++]='(';
-          calPoint2++;    
+
+      if(c=='('){
+        stack.push("(");
+        continue;
+      }  
+      if(c==')'){
+        while(!stack.peek().equals("(")){
+          answer += stack.pop();
         }
-        else {      
-          while(calPoint>0 && calcul[--calPoint] != '('){
-              stack[Point++]=calcul[calPoint];
+        stack.pop();
+        continue;
+      }
+      
+      if(c=='+' || c=='-'){
+        if(stack.size()==0 || stack.peek().equals("(")){
+          stack.push(String.valueOf(c));
+        }else{
+          while(stack.size()>0 && !stack.peek().equals("(")){
+            answer += stack.pop();
           }
-          calPoint2--;        
+          stack.push(String.valueOf(c));
+        }
+        continue;
+      }
+
+      if(c=='*' || c=='/'){
+        if(stack.size()>0 && (stack.peek().equals("*") || stack.peek().equals("/")) ){
+          while(stack.size()>0 && !stack.peek().equals("(") && (stack.peek().equals("*") || stack.peek().equals("/")) ){
+            answer += stack.pop();
+          }
+          stack.push(String.valueOf(c));
+        }else{
+          stack.push(String.valueOf(c));
         }
         continue;
       }
       
-      if( c=='+' || c=='/' || c=='*' || c=='-'){
-        if( (c=='+' || c=='-')){
-          if(calPoint - calPoint2 ==0) calcul[calPoint++] = c;
-          else{
-            while(calPoint - calPoint2>0 && calPoint>0){
-              if(calcul[calPoint]=='('){
-                calPoint++;
-                break;
-              }
-              stack[Point++]=calcul[--calPoint];        
-            }
-            multiDivde=false;
-            calcul[calPoint++] = c;
-          }
-        }else{
-          if(calPoint - calPoint2==0) {
-            multiDivde=true;
-            calcul[calPoint++] = c;
-          }
-          else{           
-            if(multiDivde){
-              while(calPoint - calPoint2>0 && calPoint>0 ){
-                if(calcul[calPoint]=='('){
-                calPoint++;
-                break;
-                }
-                stack[Point++]=calcul[--calPoint];
-              }
-            }
-            calcul[calPoint++] = c;
-          }
-        }
-      }else{
-        stack[Point++] = c;
-      }
+      answer += c;
     }
 
+    while(stack.size()>0){
+      if(stack.peek().equals("(")){stack.pop(); continue;}
 
-    while(calPoint>0){
-      if(calcul[calPoint]=='('){
-        calPoint--; 
-        if(calPoint<=0) break;
-        else{
-          stack[Point++]=calcul[--calPoint];
-          continue;
-        }
-      }
-      stack[Point++]=calcul[--calPoint];
+      answer += stack.pop();
     }
 
-    System.out.print(String.valueOf(stack));
+    System.out.println(answer);
   }
 }
