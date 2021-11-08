@@ -17,9 +17,7 @@ public class _1929 {
       if(!check) sb.append(i+"\n");
     }
     System.out.print(sb.toString());
-  
-  
-  
+
   
   }
 
