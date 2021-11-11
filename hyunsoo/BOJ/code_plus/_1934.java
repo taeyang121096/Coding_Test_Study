@@ -12,6 +12,7 @@ public class _1934 {
       int input1 = Integer.parseInt(st.nextToken());
       int input2 = Integer.parseInt(st.nextToken());
       
+
       int a,b,r;  
       if(input1>=input2){
         a=input1;
@@ -20,12 +21,14 @@ public class _1934 {
         b=input1;
         a=input2;
       }
-  
+
+      
       while(b!=0){
         r=a%b;
         a=b;
         b=r;
       }
+
       sb.append(input1*input2/a+"\n").append("\n");
     }
     System.out.println(sb.toString());

@@ -6,6 +6,55 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch _1476",
+      "request": "launch",
+      "mainClass": "BOJ.code_plus._1476",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _3085",
+      "request": "launch",
+      "mainClass": "BOJ.code_plus._3085",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _2309",
+      "request": "launch",
+      "mainClass": "BOJ.code_plus._2309",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _11727",
+      "request": "launch",
+      "mainClass": "BOJ.code_plus._11727",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _11726",
+      "request": "launch",
+      "mainClass": "BOJ.code_plus._11726",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _1463",
+      "request": "launch",
+      "mainClass": "BOJ.code_plus._1463",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _17103",
+      "request": "launch",
+      "mainClass": "BOJ.code_plus._17103",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
       "name": "Launch _1373",
       "request": "launch",
       "mainClass": "BOJ.code_plus._1373",
