@@ -6,6 +6,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch _2193",
+      "request": "launch",
+      "mainClass": "BOJ.code_plus._2193",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _15990",
+      "request": "launch",
+      "mainClass": "BOJ.code_plus._15990",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _14889",
+      "request": "launch",
+      "mainClass": "BOJ.code_plus._14889",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _14225",
+      "request": "launch",
+      "mainClass": "BOJ.code_plus._14225",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _11723",
+      "request": "launch",
+      "mainClass": "BOJ.code_plus._11723",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
       "name": "Launch _1476",
       "request": "launch",
       "mainClass": "BOJ.code_plus._1476",
