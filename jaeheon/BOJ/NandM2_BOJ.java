@@ -1,13 +1,13 @@
 import java.io.*;
 import java.util.*;
 
-//백준 N과M(1) 15650
+//백준 N과M(2) 15650
 
 public class NandM2_BOJ {
 	static int N; // 자연수 N
 	static int M; // 수열의 길이 M
 	static int arr[];
-	static boolean visit[];
+//	static boolean visit[];
 	static StringBuilder sb = new StringBuilder();
 
 	public static void main(String[] args) throws IOException {
@@ -18,13 +18,13 @@ public class NandM2_BOJ {
 		M = Integer.parseInt(st.nextToken());
 
 		arr = new int[M];
-		visit = new boolean[N]; // 숫자의 방문여부
+//		visit = new boolean[N]; // 숫자의 방문여부
 		dfs(1, 0); // root부터
 		System.out.println(sb);
 
 	}
 
-	public static void dfs(int at, int depth) { //at - 현재 위치, 즉 어디서부터 시작하는지를 의미한느 변수이다
+	public static void dfs(int at, int depth) { //at - 현재 위치, 즉 어디서부터 시작하는지를 의미하는 변수이다
 		if (depth == M) { // 깊이가 수열의 길이와 같을 때
 			for (int i = 0; i < arr.length; i++) {
 				sb.append(arr[i]).append(' ');

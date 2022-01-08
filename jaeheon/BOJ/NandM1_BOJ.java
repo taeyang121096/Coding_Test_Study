@@ -32,6 +32,8 @@ public class NandM1_BOJ {
 			sb.append('\n');
 			return;
 		}
+		
+		// 실제 알고리즘(순열)
 		for (int i = 0; i < N; i++) {
 			if (!visit[i]) { // 배열에 방문하지 않을 때
 				visit[i] = true;
