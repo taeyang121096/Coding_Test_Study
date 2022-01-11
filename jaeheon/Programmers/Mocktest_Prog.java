@@ -1,11 +1,12 @@
 import java.util.*;
 
+// 프로그래머스 완전탐색 모의고사
 public class Mocktest_Prog {
     public int[] solution(int[] answers) {
         
         ArrayList<Integer> al = new ArrayList<Integer>();
         
-        int[] answer = {};
+        int[] answer = {2, 1, 2, 3, 2, 4, 2, 5, 2, 1, 2, 3, 2, 4, 2, 5, 2, 1, 2, 3, 2, 4, 2, 5, 2, 1, 2, 3, 2, 4, 2, 5};
         // 1, 2, 3번 수포자들의 정답 패턴
         int[] first = {1, 2, 3, 4, 5};
         int[] second = {2, 1, 2, 3, 2, 4, 2, 5};
