@@ -1,0 +1,93 @@
+
+
+
+java : 객체 지향 언어
+
+- 깊은 복사랑 얕은복사 : 얕은 복사 주소까지 복사, 깊은 복사는 값만 복사
+
+- java는 깊은복사를 할까요 얕은복사를 할까요 : 자바는 얕은복사로 이루어진 언어죠, 깊은 복사는 c언어는 깊은 복사 하죠
+
+- 왜 java는 얕은복사 입니까 : 자바는 파라미터 또는 return 값에서 기존의 값을 복사해서 보내준단 말이에요 그래서 얕은 복사에요
+
+- 주소랑 값의 차이는 뭘까요 : 주소는 변수의 위치를 말해주는거고 값은 변수의 값을 의미한다.
+
+make(String str, Integer str1){
+}
+
+object1 => 주소까지 복사하면 
+object1 => 값만 복사하면 -> 새로운 객체를 만든거라고(값만 같은)
+
+primitive 자료형 -> 주소 같아 값만 복사한거야
+ char c = 'd';
+ char x = 'd';
+ if(c==x){ 
+
+ }
+
+object 자료형 -> 주소가 달라 -> 그 주소에 있는 값을 체크하기위해서는
+ String c = "d";
+ String x = "d";
+ if(c.equals(x)){ 
+
+ }
+
+str = tmp주소를 복사해서 넣어주는거고
+str1 =  tmp1 주소를 복사해서 넣어주는거고
+
+stack(tmp, tmp1, str, str1)
+stack(tmp,tmp1)
+
+main{
+
+String tmp =" dfdf";
+Integer tmp1 = 1;
+
+make(tmp,tmp1);
+
+
+}
+
+java의 최상위 객체는 object이다.
+
+
+- 접근 지정자에 대한 개념 : private, public, default, protected
+
+- 전역 변수랑 지역변수의 차이 클래스 변수의 차이 : 
+
+- 원시자료형 : char, int, double, float, byte ~~ 
+
+- 전부다 객체 로 보면 된다 : array, String 
+
+- ==, equals() 차이를 이해하려면 위를 이해하면 되요~
+
+- stream() -> buffer에 값을 넣어서 변환해주고 마지막에 최종 결과를 보여주는 하나의 함수
+
+int sum = 0;
+int[] arr = {1,2,3,4,5,6,7,8,9,10};
+-> 값을 실제로 저장을 했냐 안했냐 차이거든요??
+for(int i = 0;i < 10;i++){
+	sum += arr[i];
+}
+
+java 8 
+
+-> stream(), Optional 객체, lamda 너무 중요하죠
+
+buffer에 넣어져서 그냥 마지막에 계산된 값만 가져와요
+
+메모리적으로 효율적이겠죠
+
+
+int sum = Arrays.stream(arr).sum().getAsInt();
+int count = Arrays.stream(arr).count();
+toArray(String[]::new -> new String[] -> new.String[]);
+
+Optinonal -> 결론적으로는 Null 매우 위험한 자료값이 잖아요 이걸 커버쳐주는거에요 (null)
+
+int[][] arr = {{1,2,3},{1,2,3}};
+
+
+알고리즘은 생각이나는데 어케 해야될지 모르겟다 -> 이게 조금 편해져요 함수하나로 끝내버리니까 ㅇㅋ?
+
+
+
