@@ -17,7 +17,6 @@ class Tuple_Prog {
 
 		// 길이 순으로 오름차순 정렬
 		Arrays.sort(input, (o1, o2) -> o1.length() > o2.length() ? 1 : -1);
-		System.out.println(Arrays.toString(input));
 
 		ArrayList<Integer> al = new ArrayList<>();
 
