@@ -39,7 +39,7 @@ public class B15651_NAndM3 {
         if (index > N) {
             return;
         }
-
+        
         for (int i = 1; i <= N; i++) {
             arr[index] = i;
             find(N, M, index + 1);

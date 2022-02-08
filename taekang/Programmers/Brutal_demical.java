@@ -7,9 +7,7 @@ public class Brutal_demical {
 
     static char[] arr;
     static boolean[] isUsed;
-    static int count = 0;
-    static String temp ="";
-    static StringBuilder sb = new StringBuilder();
+    static String temp = "";
     static Set<Integer> set = new HashSet<>();
 
     public static void main(String[] args) throws IOException {
@@ -25,6 +23,16 @@ public class Brutal_demical {
         for (int i = 0; i < split.length; i++) {
             find(0, i + 1, numbers);
         }
+
+        /**
+         *
+         * 3P2 {1,2,3}
+         * 12 13 23 21 23 31 32
+         *
+         * 71
+         * 1 7 3P1
+         * 17 71 3P2
+         */
 
         System.out.println(set.size());
     }
