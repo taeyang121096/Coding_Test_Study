@@ -44,24 +44,18 @@ public class Rain_BOJ {
 
 		int answer = 0;
 
-		while (left < right || left > right) {
+		while (left < right) {
 			maxl = Math.max(maxl, block[left]);  // 3
 			maxr = Math.max(maxr, block[right]); // 2 2 4
 
 			if (maxl <= maxr) {
+				answer+=maxl - block[left];
 				left++;
-				if (maxl <= block[left]) {
-					continue;
-				} else {
-					answer += maxl - block[left];
-				}
-			} else if(maxl > maxr){
+				
+			} else {
+				answer+= maxr - block[right];
 				right--;
-				if (maxr <= block[right]) { // break
-					continue;
-				} else {
-					answer += maxr - block[right]; // 1 1
-				}
+				
 			}
 		}
 		
