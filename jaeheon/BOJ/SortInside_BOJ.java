@@ -26,6 +26,7 @@ public class SortInside_BOJ {
 		for(int i = 0; i < arr.length; i++) {
 			sb.append(arr[i]);
 		}
+		
 		System.out.println(sb);
 	}
 }
