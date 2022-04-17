@@ -6,6 +6,7 @@ package Programmers;
 //처음 걸어본 길이 : 두번 이상 지나간 경로는 하나로 취급
 //무조건 (0,0)에서 시작
 
+
 class VisitLength_Prog {
 	public int solution(String dirs) {
 		int answer = 0;
