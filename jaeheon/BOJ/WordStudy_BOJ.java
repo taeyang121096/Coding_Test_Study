@@ -34,7 +34,6 @@ public class WordStudy_BOJ {
 				}
 			}
 		});
-//		System.out.println(alphabet[25][0] + " " + alphabet[25][1]);
 		
 		if(alphabet[24][0] == alphabet[25][0]) {
 			System.out.println('?');
