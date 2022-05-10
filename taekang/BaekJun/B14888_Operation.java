@@ -54,6 +54,7 @@ public class B14888_Operation {
             long sum = arr[0];
             for (int i = 0; i < n - 1; i++) {
                 int x = result[i]; // 1 1 2 3 4
+
                 if (x == 1) {
                     sum += arr[i + 1];
                 } else if (x == 2) {
@@ -79,7 +80,7 @@ public class B14888_Operation {
         for (int i = 0; i < n - 1; i++) {
             if (!visit[i]) {
                 visit[i] = true;
-                result[depth] = bag[i]; //
+                result[depth] = bag[i];
                 dfs(depth + 1);
                 visit[i] = false;
             }
