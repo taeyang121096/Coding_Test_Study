@@ -6,7 +6,7 @@ import java.util.*;
 public class B14889_StartAndLink {
     static int[][] map;
     static int N;
-    static int[] start, link
+    static int[] start, link;
     static boolean[] check;
     static int min = Integer.MAX_VALUE;
 
