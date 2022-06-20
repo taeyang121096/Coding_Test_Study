@@ -1,7 +1,6 @@
 package Programmers;
-
+import java.util.*;
 public class FindRanking {
-    import java.util.*;
 
     class Solution {
         public int[] solution(String[] info, String[] query) {
