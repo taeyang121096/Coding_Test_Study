@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41efa10b-cb11-4e86-9730-966be3302ec1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/TakeAPicture.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/TakeAPicture.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,22 +44,9 @@
     <property name="project.structure.side.proportion" value="0.27868852" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.TakeAPicture">
+  <component name="RunManager" selected="Application.HuboKey">
     <configuration name="B1149_RGBDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekJun.B1149_RGBDistance" />
-      <module name="taekang" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BaekJun.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="B1902_01Tile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJun.B1902_01Tile" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
@@ -77,6 +64,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="BaekJun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HuboKey" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.HuboKey" />
+      <module name="taekang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Programmers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HuboKey" />
         <item itemvalue="Application.TakeAPicture" />
         <item itemvalue="Application.MenuRenual" />
         <item itemvalue="Application.B1149_RGBDistance" />
         <item itemvalue="Application.B9461_Pado" />
-        <item itemvalue="Application.B1902_01Tile" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +134,7 @@
       <workItem from="1652074189220" duration="22016000" />
       <workItem from="1652248109032" duration="6855000" />
       <workItem from="1655350228423" duration="8643000" />
-      <workItem from="1655700947597" duration="707000" />
+      <workItem from="1655700947597" duration="9319000" />
     </task>
     <servers />
   </component>
