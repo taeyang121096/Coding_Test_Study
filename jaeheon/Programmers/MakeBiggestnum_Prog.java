@@ -1,40 +1,26 @@
 package Programmers;
 
-//주어진 숫자에서 k개의 수를 제거해서 배열 생성
-//가장 큰 수 리턴
-//1 9 2 4
-//9 4
-//1 2 3 1 2 3 4
-//3 2 3 4 
-//k 3
-//pop한 개수 세면 됨
-
-import java.util.*;
+//수 k개를 제거하고 가장 큰 숫자 구하기
+//number는 2자리 이상 백만 이하
+//k는 1이상 number자리수 미만
 
 class MakeBiggestNum_Prog {
 	public String solution(String number, int k) {
-
 		StringBuilder sb = new StringBuilder();
-		Stack<Character> stack = new Stack<>();
-		int cnt = 0;
 
-		for (int i = 0; i < number.length(); i++) {
-			char c = number.charAt(i);
-			while (!stack.isEmpty() && stack.peek() < c && k > cnt) {
-				stack.pop();
-				cnt++;
+		int idx = 0;
+
+		for (int i = 0; i < number.length() - k; i++) {
+			int max = Integer.MIN_VALUE;
+			// char max = '0';
+			for (int j = idx; j <= k + i; j++) {
+				if (max < number.charAt(j) - '0') { // max < number.charAt(j)
+					max = number.charAt(j) - '0'; // max = number.charAt(j);
+					idx = j + 1;
+				}
 			}
-			stack.push(c);
-
+			sb.append(max);
 		}
-		while (cnt < k) {
-			stack.pop();
-			cnt++;
-		}
-		while (!stack.isEmpty()) {
-			sb.insert(0, stack.pop());
-		}
-
 		return sb.toString();
 	}
 }
