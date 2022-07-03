@@ -10,7 +10,6 @@
       <change beforePath="$PROJECT_DIR$/Programmers/FileSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/FileSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/taekang/.idea/compiler 2.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/taekang/.idea/misc 2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/taekang/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/taekang/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/taekang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/taekang/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +44,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.27868852" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -148,7 +147,7 @@
       <workItem from="1656246206807" duration="1983000" />
       <workItem from="1656317455200" duration="119000" />
       <workItem from="1656424576980" duration="140000" />
-      <workItem from="1656765684357" duration="302000" />
+      <workItem from="1656765684357" duration="249000" />
     </task>
     <servers />
   </component>
