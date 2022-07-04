@@ -3,7 +3,7 @@ package BaekJun;
 import java.io.*;
 import java.util.*;
 
-public class B2606_virus_try2 {
+public class B2606_virus_v2 {
     static int N;
     static int M;
     static int[][] map;
