@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41efa10b-cb11-4e86-9730-966be3302ec1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/BaekJun/B2606_virus_try2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaekJun/B11403_findRoute.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJun/B11403_findRoute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/LowScore.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/LowScore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/taekang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/taekang/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +45,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.27868852" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RunManager" selected="Application.B11403_findRoute">
     <configuration name="B11403_findRoute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -113,9 +116,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.B11403_findRoute" />
+        <item itemvalue="Application.LowScore" />
         <item itemvalue="Application.B2606_virus_try2" />
         <item itemvalue="Application.B16236" />
-        <item itemvalue="Application.LowScore" />
         <item itemvalue="Application.makeBigestNum" />
       </list>
     </recent_temporary>
@@ -147,7 +150,8 @@
       <workItem from="1656817921192" duration="9000" />
       <workItem from="1656852400322" duration="962000" />
       <workItem from="1656853632205" duration="3396000" />
-      <workItem from="1656904024009" duration="7720000" />
+      <workItem from="1656904024009" duration="9929000" />
+      <workItem from="1656915780452" duration="4339000" />
     </task>
     <servers />
   </component>

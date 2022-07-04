@@ -3,7 +3,7 @@ package Programmers;
 public class LowScore {
     static int answer = 0;
     public static void main(String[] args) {
-        int[] grade = {3,2,3,6,4,5};
+        int[] grade = {3, 3, 2,3,6,4,5};
         recur(grade, -1);
         System.out.println(answer);
     }
@@ -26,7 +26,8 @@ public class LowScore {
             // idx = -1, min_idx = 1
             for(int i = idx + 1; i < min_idx; i++){
                 int dis = grade[i] - grade[min_idx];
-                answer += dis;
+                if(dis>0)
+                    answer += dis;
             }
 
             recur(grade, min_idx);
