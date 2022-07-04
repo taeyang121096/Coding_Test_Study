@@ -11,20 +11,32 @@ package Programmers;
 import java.util.*;
 
 class Boat_Prog {
- public int solution(int[] people, int limit) {
-     int answer = 0;
-     
-     Arrays.sort(people);
-     
-     int min = 0;
-     
-     for(int i = people.length - 1; i >= min; i--){
-         if(people[i] + people[min] <= limit){
-             min++;
-         }
-         answer++;
-     }
-     
-     return answer;
- }
+	public int solution(int[] people, int limit) {
+		int answer = 0;
+
+		Integer[] p = new Integer[people.length];
+		for (int i = 0; i < people.length; i++) {
+			p[i] = people[i];
+		}
+
+		Arrays.sort(p, Collections.reverseOrder());
+
+		// for(int i = 0; i < p.length; i++){
+		// System.out.println(p[i]);
+		// }
+
+		// 80 70 50 50
+		int right = p.length - 1;
+
+		for (int i = 0; i <= right; i++) {
+			if (p[i] + p[right] > limit) { // 80 50
+				answer++; // -> 70 50
+			} else { // 50 50
+				answer++;
+				right--;
+			}
+		}
+
+		return answer;
+	}
 }
