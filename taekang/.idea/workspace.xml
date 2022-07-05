@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="41efa10b-cb11-4e86-9730-966be3302ec1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/taekang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/taekang/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +52,7 @@
     <property name="project.structure.side.proportion" value="0.27868852" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
-  <component name="RunManager" selected="Application.B16173_JumpKingJelly">
+  <component name="RunManager" selected="Application.B2178_maze_v2">
     <configuration name="B11403_findRoute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekJun.B11403_findRoute" />
       <module name="taekang" />
@@ -80,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B2606_virus_try2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJun.B2606_virus_try2" />
+    <configuration name="B2178_maze_v2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJun.B2178_maze_v2" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
@@ -121,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B2178_maze_v2" />
         <item itemvalue="Application.B16173_JumpKingJelly" />
         <item itemvalue="Application.B2667_danji_v2" />
         <item itemvalue="Application.B11403_findRoute" />
         <item itemvalue="Application.LowScore" />
-        <item itemvalue="Application.B2606_virus_try2" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +157,7 @@
       <workItem from="1656853632205" duration="3396000" />
       <workItem from="1656904024009" duration="9929000" />
       <workItem from="1656915780452" duration="4339000" />
-      <workItem from="1656988987981" duration="4951000" />
+      <workItem from="1656988987981" duration="8593000" />
     </task>
     <servers />
   </component>
