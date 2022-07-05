@@ -8,6 +8,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BaekJun/B11403_findRoute.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJun/B11403_findRoute.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Programmers/LowScore.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/LowScore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/taekang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/taekang/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +45,9 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.27868852" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
-  <component name="RunManager" selected="Application.B11403_findRoute">
+  <component name="RunManager" selected="Application.B2667_danji_v2">
     <configuration name="B11403_findRoute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekJun.B11403_findRoute" />
       <module name="taekang" />
@@ -86,6 +87,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="B2667_danji_v2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJun.B2667_danji_v2" />
+      <module name="taekang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BaekJun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LowScore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Programmers.LowScore" />
       <module name="taekang" />
@@ -99,26 +113,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="makeBigestNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programmers.makeBigestNum" />
-      <module name="taekang" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Programmers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B2667_danji_v2" />
         <item itemvalue="Application.B11403_findRoute" />
         <item itemvalue="Application.LowScore" />
         <item itemvalue="Application.B2606_virus_try2" />
         <item itemvalue="Application.B16236" />
-        <item itemvalue="Application.makeBigestNum" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +151,7 @@
       <workItem from="1656852400322" duration="962000" />
       <workItem from="1656853632205" duration="3396000" />
       <workItem from="1656904024009" duration="9929000" />
-      <workItem from="1656915780452" duration="704000" />
+      <workItem from="1656915780452" duration="4339000" />
     </task>
     <servers />
   </component>
