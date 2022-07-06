@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="41efa10b-cb11-4e86-9730-966be3302ec1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/taekang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/taekang/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,20 +52,7 @@
     <property name="project.structure.side.proportion" value="0.27868852" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
-  <component name="RunManager" selected="Application.B2468_SafetyArea">
-    <configuration name="B11403_findRoute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJun.B11403_findRoute" />
-      <module name="taekang" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BaekJun.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.WordChange">
     <configuration name="B16173_JumpKingJelly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekJun.B16173_JumpKingJelly" />
       <module name="taekang" />
@@ -119,13 +105,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WordChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.WordChange" />
+      <module name="taekang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Programmers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WordChange" />
         <item itemvalue="Application.B2468_SafetyArea" />
         <item itemvalue="Application.B2178_maze_v2" />
         <item itemvalue="Application.B16173_JumpKingJelly" />
         <item itemvalue="Application.B2667_danji_v2" />
-        <item itemvalue="Application.B11403_findRoute" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +158,8 @@
       <workItem from="1656904024009" duration="9929000" />
       <workItem from="1656915780452" duration="4339000" />
       <workItem from="1656988987981" duration="9855000" />
-      <workItem from="1657024579958" duration="3865000" />
+      <workItem from="1657024579958" duration="4113000" />
+      <workItem from="1657090334142" duration="1120000" />
     </task>
     <servers />
   </component>
