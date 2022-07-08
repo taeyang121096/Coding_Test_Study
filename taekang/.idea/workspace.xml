@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="41efa10b-cb11-4e86-9730-966be3302ec1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaekJun/B15650_NAndM2.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJun/B15650_NAndM2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,9 +53,9 @@
     <property name="project.structure.side.proportion" value="0.27868852" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
-  <component name="RunManager" selected="Application.Hang_Mul">
-    <configuration name="B2468_SafetyArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJun.B2468_SafetyArea" />
+  <component name="RunManager" selected="Application.BiggestNumber">
+    <configuration name="B9205_BeerAndWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJun.B9205_BeerAndWork" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
@@ -66,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B9205_BeerAndWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJun.B9205_BeerAndWork" />
+    <configuration name="BiggestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.BiggestNumber" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BaekJun.*" />
+          <option name="PATTERN" value="Programmers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BiggestNumber" />
         <item itemvalue="Application.Hang_Mul" />
         <item itemvalue="Application.Country124" />
         <item itemvalue="Application.B9205_BeerAndWork" />
         <item itemvalue="Application.WordChange" />
-        <item itemvalue="Application.B2468_SafetyArea" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +164,7 @@
       <workItem from="1657164961103" duration="2160000" />
       <workItem from="1657200606208" duration="1585000" />
       <workItem from="1657279715700" duration="25000" />
-      <workItem from="1657281400330" duration="1229000" />
+      <workItem from="1657281400330" duration="3940000" />
     </task>
     <servers />
   </component>
