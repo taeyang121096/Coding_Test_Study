@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="41efa10b-cb11-4e86-9730-966be3302ec1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJun/B15650_NAndM2.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJun/B15650_NAndM2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +52,7 @@
     <property name="project.structure.side.proportion" value="0.27868852" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
-  <component name="RunManager" selected="Application.BiggestNumber">
+  <component name="RunManager" selected="Application.ReportResult">
     <configuration name="B9205_BeerAndWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekJun.B9205_BeerAndWork" />
       <module name="taekang" />
@@ -106,8 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programmers.WordChange" />
+    <configuration name="ReportResult" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.ReportResult" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
@@ -121,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReportResult" />
         <item itemvalue="Application.BiggestNumber" />
         <item itemvalue="Application.Hang_Mul" />
         <item itemvalue="Application.Country124" />
         <item itemvalue="Application.B9205_BeerAndWork" />
-        <item itemvalue="Application.WordChange" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +163,8 @@
       <workItem from="1657164961103" duration="2160000" />
       <workItem from="1657200606208" duration="1585000" />
       <workItem from="1657279715700" duration="25000" />
-      <workItem from="1657281400330" duration="3940000" />
+      <workItem from="1657281400330" duration="3965000" />
+      <workItem from="1657455424608" duration="818000" />
     </task>
     <servers />
   </component>
@@ -190,6 +190,16 @@
           <url>file://$PROJECT_DIR$/Programmers/makeBigestNum.java</url>
           <line>26</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Programmers/ReportResult.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Programmers/ReportResult.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
