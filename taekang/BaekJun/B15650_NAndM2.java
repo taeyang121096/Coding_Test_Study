@@ -30,7 +30,7 @@ public class B15650_NAndM2 {
             return;
         }
 
-        if (index > N) {
+        if (index >= N) {
             return;
         }
 
