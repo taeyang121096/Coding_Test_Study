@@ -164,7 +164,8 @@
       <workItem from="1657200606208" duration="1585000" />
       <workItem from="1657279715700" duration="25000" />
       <workItem from="1657281400330" duration="3965000" />
-      <workItem from="1657455424608" duration="818000" />
+      <workItem from="1657455424608" duration="1785000" />
+      <workItem from="1657531279461" duration="43000" />
     </task>
     <servers />
   </component>
@@ -190,16 +191,6 @@
           <url>file://$PROJECT_DIR$/Programmers/makeBigestNum.java</url>
           <line>26</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Programmers/ReportResult.java</url>
-          <line>42</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Programmers/ReportResult.java</url>
-          <line>36</line>
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
