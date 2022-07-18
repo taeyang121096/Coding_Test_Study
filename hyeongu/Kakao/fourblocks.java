@@ -10,7 +10,7 @@ class Solution {
         // 배열을 뒤집어서 생각하기 때문에 n, m으로 초기화
         boolean[][] check = new boolean[n][m];
         int answer = 0;
-        boolean isBreak;
+        boolean isBreak = true;
         ArrayList<Character>[] arr = new ArrayList[n]; 
         
         for(int i = 0; i<n; i++){
@@ -21,14 +21,8 @@ class Solution {
                 arr[j].add(board[i-1].charAt(j));
             }
         }
-        // for(int i = 0; i<n; i++){
-        //     for(int j = 0; j<m; j++){
-        //         System.out.print(arr[i].get(j));
-        //     }
-        //     System.out.println(""); 
-        // }
                 
-        do{
+        while(isBreak){
             //삭제하는 블럭이 있을경우 true, 없는경우 while문 종료
             isBreak = false;
             for(int i = 0; i<n-1; i++){
@@ -56,7 +50,7 @@ class Solution {
                     }
                 }
             }
-        }while(isBreak);
+        }
         return answer;
     }
 }
