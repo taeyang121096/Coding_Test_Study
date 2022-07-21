@@ -53,13 +53,26 @@
     <property name="project.structure.side.proportion" value="0.27868852" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
-  <component name="RunManager" selected="Application.friends4Blocks">
-    <configuration name="BiggestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programmers.BiggestNumber" />
+  <component name="RunManager" selected="Application.B2805_CutWood">
+    <configuration name="Apchuk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.Apchuk" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Programmers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B2805_CutWood" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJun.B2805_CutWood" />
+      <module name="taekang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BaekJun.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,19 +82,6 @@
     </configuration>
     <configuration name="DartGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Programmers.DartGame" />
-      <module name="taekang" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Programmers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Hang_Mul" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programmers.Hang_Mul" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
@@ -121,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B2805_CutWood" />
+        <item itemvalue="Application.Apchuk" />
         <item itemvalue="Application.friends4Blocks" />
         <item itemvalue="Application.DartGame" />
         <item itemvalue="Application.ReportResult" />
-        <item itemvalue="Application.BiggestNumber" />
-        <item itemvalue="Application.Hang_Mul" />
       </list>
     </recent_temporary>
   </component>
@@ -171,6 +171,10 @@
       <workItem from="1657635127577" duration="663000" />
       <workItem from="1657698678895" duration="640000" />
       <workItem from="1657765347859" duration="225000" />
+      <workItem from="1658152182772" duration="2041000" />
+      <workItem from="1658156086703" duration="77000" />
+      <workItem from="1658194425998" duration="1767000" />
+      <workItem from="1658396880544" duration="661000" />
     </task>
     <servers />
   </component>
