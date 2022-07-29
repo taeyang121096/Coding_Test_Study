@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="41efa10b-cb11-4e86-9730-966be3302ec1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/taekang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/taekang/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +52,7 @@
     <property name="project.structure.side.proportion" value="0.27868852" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
-  <component name="RunManager" selected="Application.B2805_CutWood">
+  <component name="RunManager" selected="Application.RotateGhwalho">
     <configuration name="Apchuk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Programmers.Apchuk" />
       <module name="taekang" />
@@ -93,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReportResult" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programmers.ReportResult" />
+    <configuration name="RotateGhwalho" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.RotateGhwalho" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
@@ -121,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RotateGhwalho" />
         <item itemvalue="Application.B2805_CutWood" />
         <item itemvalue="Application.Apchuk" />
         <item itemvalue="Application.friends4Blocks" />
         <item itemvalue="Application.DartGame" />
-        <item itemvalue="Application.ReportResult" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +173,10 @@
       <workItem from="1658152182772" duration="2041000" />
       <workItem from="1658156086703" duration="77000" />
       <workItem from="1658194425998" duration="1767000" />
-      <workItem from="1658396880544" duration="661000" />
+      <workItem from="1658396880544" duration="2432000" />
+      <workItem from="1658799134514" duration="1424000" />
+      <workItem from="1658890036258" duration="15000" />
+      <workItem from="1658998746333" duration="18000" />
     </task>
     <servers />
   </component>
@@ -196,11 +198,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Programmers/makeBigestNum.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Programmers/DartGame.java</url>
           <line>64</line>
