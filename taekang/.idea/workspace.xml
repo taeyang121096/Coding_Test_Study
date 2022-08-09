@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="41efa10b-cb11-4e86-9730-966be3302ec1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJun/B1902_findNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJun/B1920_findNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/taekang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/taekang/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +52,7 @@
     <property name="project.structure.side.proportion" value="0.27868852" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.B1654_CutLan">
+  <component name="RunManager" selected="Application.B2512_Budget">
     <configuration name="B1654_CutLan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekJun.B1654_CutLan" />
       <module name="taekang" />
@@ -70,6 +68,19 @@
     </configuration>
     <configuration name="B1920_findNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekJun.B1920_findNum" />
+      <module name="taekang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BaekJun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B2512_Budget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJun.B2512_Budget" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
@@ -107,26 +118,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateGhwalho" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programmers.RotateGhwalho" />
-      <module name="taekang" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Programmers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B2512_Budget" />
         <item itemvalue="Application.B1654_CutLan" />
         <item itemvalue="Application.B1920_findNum" />
         <item itemvalue="Application.PrettyNum" />
         <item itemvalue="Application.Delivery" />
-        <item itemvalue="Application.RotateGhwalho" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +189,7 @@
       <workItem from="1659762640424" duration="1858000" />
       <workItem from="1659770316163" duration="12000" />
       <workItem from="1659933151146" duration="1965000" />
-      <workItem from="1660026957870" duration="5430000" />
+      <workItem from="1660026957870" duration="7575000" />
     </task>
     <servers />
   </component>
