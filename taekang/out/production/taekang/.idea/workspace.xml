@@ -52,9 +52,9 @@
     <property name="project.structure.side.proportion" value="0.27868852" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.B2110_RouterInstallation">
-    <configuration name="B1654_CutLan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJun.B1654_CutLan" />
+  <component name="RunManager" selected="Application.B11659_SectionSum">
+    <configuration name="B11659_SectionSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJun.B11659_SectionSum" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
@@ -66,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B1920_findNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJun.B1920_findNum" />
+    <configuration name="B1654_CutLan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJun.B1654_CutLan" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B11659_SectionSum" />
         <item itemvalue="Application.B2110_RouterInstallation" />
         <item itemvalue="Application.B3079_Immigration" />
         <item itemvalue="Application.B2512_Budget" />
         <item itemvalue="Application.B1654_CutLan" />
-        <item itemvalue="Application.B1920_findNum" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +191,7 @@
       <workItem from="1659933151146" duration="1965000" />
       <workItem from="1660026957870" duration="8006000" />
       <workItem from="1660047519544" duration="1984000" />
-      <workItem from="1660097869238" duration="1506000" />
+      <workItem from="1660097869238" duration="5488000" />
     </task>
     <servers />
   </component>
