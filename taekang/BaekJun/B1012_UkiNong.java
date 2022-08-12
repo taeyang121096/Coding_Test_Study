@@ -13,7 +13,7 @@ public class B1012_UkiNong {
     static int[][] map;
     static boolean[][] check;
 
-    static void bfs(int i, int j){
+    static void bfs(int i, int j) {
         Queue<int[]> q = new LinkedList<>();
         q.offer(new int[]{i, j});
 
@@ -32,11 +32,11 @@ public class B1012_UkiNong {
         }
     }
 
-    public static void main(String[] args) throws IOException{
+    public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         T = Integer.parseInt(br.readLine()); // 2
 
-        for(int i = 0; i < T; i ++){
+        for (int i = 0; i < T; i++) {
             int earthWorm = 0;
 
             String input = br.readLine();
@@ -47,7 +47,7 @@ public class B1012_UkiNong {
 
             map = new int[M][N];
             check = new boolean[M][N];
-            for(int j = 0 ; j < K; j++){
+            for (int j = 0; j < K; j++) {
                 String input2 = br.readLine();
                 String[] str2 = input2.split(" ");
                 int r = Integer.parseInt(str2[0]);
