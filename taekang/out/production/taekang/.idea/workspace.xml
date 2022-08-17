@@ -52,13 +52,13 @@
     <property name="project.structure.side.proportion" value="0.27868852" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.SW_1211">
-    <configuration name="Num1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LikeLion.Num1" />
+  <component name="RunManager" selected="Application.SW_1213">
+    <configuration name="SW_1209" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SW.SW_1209" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LikeLion.*" />
+          <option name="PATTERN" value="SW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SW_1208" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SW.SW_1208" />
+    <configuration name="SW_1210" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SW.SW_1210" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SW_1240" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SW.SW_1240" />
+    <configuration name="SW_1213" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SW.SW_1213" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
@@ -110,7 +110,7 @@
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Programmers.*" />
+          <option name="PATTERN" value="SW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SW_1213" />
+        <item itemvalue="Application.SW_1209" />
+        <item itemvalue="Application.SW_1210" />
         <item itemvalue="Application.SW_1211" />
         <item itemvalue="Application.lv1_makeSoSu" />
-        <item itemvalue="Application.SW_1208" />
-        <item itemvalue="Application.SW_1240" />
-        <item itemvalue="Application.Num1" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +198,8 @@
       <workItem from="1660401812171" duration="1507000" />
       <workItem from="1660554905403" duration="1226000" />
       <workItem from="1660574776216" duration="15000" />
-      <workItem from="1660615439584" duration="520000" />
+      <workItem from="1660615439584" duration="6893000" />
+      <workItem from="1660701724986" duration="812000" />
     </task>
     <servers />
   </component>
