@@ -52,35 +52,9 @@
     <property name="project.structure.side.proportion" value="0.27868852" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.SW_1213">
+  <component name="RunManager" selected="Application.SW_1217">
     <configuration name="SW_1209" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SW.SW_1209" />
-      <module name="taekang" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SW.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SW_1210" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SW.SW_1210" />
-      <module name="taekang" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SW.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SW_1211" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SW.SW_1211" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
@@ -105,8 +79,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lv1_makeSoSu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programmers.lv1_makeSoSu" />
+    <configuration name="SW_1215" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SW.SW_1215" />
+      <module name="taekang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SW.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SW_1216" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SW.SW_1216" />
+      <module name="taekang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SW.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SW_1217" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SW.SW_1217" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SW_1217" />
+        <item itemvalue="Application.SW_1216" />
+        <item itemvalue="Application.SW_1215" />
         <item itemvalue="Application.SW_1213" />
         <item itemvalue="Application.SW_1209" />
-        <item itemvalue="Application.SW_1210" />
-        <item itemvalue="Application.SW_1211" />
-        <item itemvalue="Application.lv1_makeSoSu" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +199,7 @@
       <workItem from="1660554905403" duration="1226000" />
       <workItem from="1660574776216" duration="15000" />
       <workItem from="1660615439584" duration="6893000" />
-      <workItem from="1660701724986" duration="812000" />
+      <workItem from="1660701724986" duration="4631000" />
     </task>
     <servers />
   </component>
