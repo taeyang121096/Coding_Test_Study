@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="41efa10b-cb11-4e86-9730-966be3302ec1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/taekang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/taekang/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,13 +52,13 @@
     <property name="project.structure.side.proportion" value="0.27868852" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.SingUp">
-    <configuration name="JjackGGung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programmers.JjackGGung" />
+  <component name="RunManager" selected="Application.B1931">
+    <configuration name="B1931" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJun.B1931" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Programmers.*" />
+          <option name="PATTERN" value="BaekJun.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SW_1225" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SW.SW_1225" />
+    <configuration name="JjackGGung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.JjackGGung" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SW.*" />
+          <option name="PATTERN" value="Programmers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B1931" />
         <item itemvalue="Application.SingUp" />
         <item itemvalue="Application.JjackGGung" />
         <item itemvalue="Application.SW_1227" />
         <item itemvalue="Application.SW_1226" />
-        <item itemvalue="Application.SW_1225" />
       </list>
     </recent_temporary>
   </component>
@@ -207,6 +206,12 @@
       <workItem from="1661135532532" duration="5378000" />
       <workItem from="1661256701771" duration="134000" />
       <workItem from="1661256882238" duration="122000" />
+      <workItem from="1661257963390" duration="440000" />
+      <workItem from="1661259451801" duration="623000" />
+      <workItem from="1661311006152" duration="27000" />
+      <workItem from="1661389849183" duration="2612000" />
+      <workItem from="1661475390350" duration="886000" />
+      <workItem from="1661478798519" duration="934000" />
     </task>
     <servers />
   </component>
