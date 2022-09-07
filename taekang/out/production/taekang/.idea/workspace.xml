@@ -52,9 +52,22 @@
     <property name="project.structure.side.proportion" value="0.27868852" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.B1931">
+  <component name="RunManager" selected="Application.RotateHang">
     <configuration name="B1931" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekJun.B1931" />
+      <module name="taekang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BaekJun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B1946" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJun.B1946" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
@@ -79,25 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SW_1226" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SW.SW_1226" />
+    <configuration name="RotateHang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.RotateHang" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SW.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SW_1227" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SW.SW_1227" />
-      <module name="taekang" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SW.*" />
+          <option name="PATTERN" value="Programmers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RotateHang" />
+        <item itemvalue="Application.B1946" />
         <item itemvalue="Application.B1931" />
         <item itemvalue="Application.SingUp" />
         <item itemvalue="Application.JjackGGung" />
-        <item itemvalue="Application.SW_1227" />
-        <item itemvalue="Application.SW_1226" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +211,8 @@
       <workItem from="1661311006152" duration="27000" />
       <workItem from="1661389849183" duration="2612000" />
       <workItem from="1661475390350" duration="886000" />
-      <workItem from="1661478798519" duration="934000" />
+      <workItem from="1661478798519" duration="6677000" />
+      <workItem from="1661828102777" duration="31000" />
     </task>
     <servers />
   </component>
