@@ -43,3 +43,44 @@ class KPrime_Prog {
 		return answer;
 	}
 }
+
+//class Solution {
+//    static boolean isPrime(long num){
+//        if(num == 1){
+//            return false;
+//        }
+//        if(num == 2){
+//            return true;
+//        }
+//        for(int i = 2; i <= Math.sqrt(num); i++){
+//            if(num % i == 0){
+//                return false;
+//            }
+//        }
+//        return true;
+//    }
+//    
+//    public int solution(int n, int k) {
+//        int answer = 0;
+//        
+//        String s = Integer.toString(n, k);
+//        
+//        String[] str = s.split("0");
+//        
+//        // for(int i = 0; i < str.length; i++){
+//        //     System.out.println(str[i]);
+//        // }
+//        
+//        for(String input : str){
+//            if(input.equals("")){
+//                continue;
+//            }
+//            long num = Long.parseLong(input);
+//            if(isPrime(num)){
+//                answer++;
+//            }
+//        }
+//        
+//        return answer;
+//    }
+//}
