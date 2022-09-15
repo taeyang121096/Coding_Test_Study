@@ -53,7 +53,7 @@
     <property name="project.structure.side.proportion" value="0.27868852" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.B1759">
+  <component name="RunManager" selected="Application.B2589">
     <configuration name="B14500" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekJun.B14500" />
       <module name="taekang" />
@@ -106,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateHang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programmers.RotateHang" />
+    <configuration name="B2589" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJun.B2589" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Programmers.*" />
+          <option name="PATTERN" value="BaekJun.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B2589" />
         <item itemvalue="Application.B1759" />
         <item itemvalue="Application.B15686" />
         <item itemvalue="Application.B14500" />
         <item itemvalue="Application.B14502" />
-        <item itemvalue="Application.RotateHang" />
       </list>
     </recent_temporary>
   </component>
@@ -220,6 +220,7 @@
       <workItem from="1663036209236" duration="7665000" />
       <workItem from="1663072934060" duration="4395000" />
       <workItem from="1663128171394" duration="6362000" />
+      <workItem from="1663207549592" duration="4551000" />
     </task>
     <servers />
   </component>
