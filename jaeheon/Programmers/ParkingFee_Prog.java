@@ -60,3 +60,69 @@ class ParkingFee_Prog {
 		return hour + minute;
 	}
 }
+
+//class Solution {
+//	public int[] solution(int[] fees, String[] records) {
+//		
+//        int bTime = fees[0];
+//        int bFee = fees[1];
+//        int uTime = fees[2];
+//        int uFee = fees[3];
+//        
+//		Map<String, Integer> parking = new HashMap<>(); // 주차된 차
+//		Map<String, Integer> times = new HashMap<>(); // 주차 시간
+//		List<String> cars = new ArrayList<>(); // 차
+//
+//		for (String record : records) {
+//			String[] str = record.split(" ");
+//			int time = hourToMin(str[0]); // 시간 -> 분
+//			String car = str[1]; // 차
+//
+//			if (!cars.contains(car)) { // 신규 차 입차
+//				cars.add(car);
+//				times.put(car, 0);
+//                parking.put(car, time);
+//			} else {
+//                if (parking.containsKey(car)) { // 출차
+//				    times.put(car, times.get(car) + (time - parking.get(car)));
+//				    parking.remove(car);
+//			    } else {
+//                    parking.put(car, time); // 신규 차가 아닌데 입차
+//                }
+//            }
+//		}
+//        // for(String key : times.keySet()){
+//        //     System.out.println(key + " " + times.get(key));
+//        // }
+//        
+//		Collections.sort(cars);
+//        
+//        int[] answer = new int[cars.size()];
+//        Arrays.fill(answer, bFee);
+//        
+//        int deadline = hourToMin("23:59");
+//        
+//		for (int i = 0; i < cars.size(); i++) {
+//			String car = cars.get(i);
+//
+//			int time = times.get(car) - bTime;
+//
+//			if (parking.containsKey(car)){
+//				time += (deadline - parking.get(car));
+//            }
+//
+//			if (time > 0){
+//				answer[i] += (Math.ceil(time / (double)uTime) * uFee);
+//            }
+//		}
+//
+//		return answer;
+//	}
+//
+//	public int hourToMin(String time) {
+//		String[] tmp = time.split(":");
+//        int hour = Integer.parseInt(tmp[0]) * 60;
+//        int minute = Integer.parseInt(tmp[1]);
+//		return hour + minute;
+//	}
+//}
