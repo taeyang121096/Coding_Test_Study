@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="41efa10b-cb11-4e86-9730-966be3302ec1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/taekang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/taekang/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,9 +52,9 @@
     <property name="project.structure.side.proportion" value="0.27868852" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.B2589">
-    <configuration name="B14500" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJun.B14500" />
+  <component name="RunManager" selected="Application.B1107">
+    <configuration name="B1107" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJun.B1107" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
@@ -67,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B14502" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJun.B14502" />
+    <configuration name="B14500" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJun.B14500" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
@@ -121,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B1107" />
         <item itemvalue="Application.B2589" />
         <item itemvalue="Application.B1759" />
         <item itemvalue="Application.B15686" />
         <item itemvalue="Application.B14500" />
-        <item itemvalue="Application.B14502" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +219,8 @@
       <workItem from="1663036209236" duration="7665000" />
       <workItem from="1663072934060" duration="4395000" />
       <workItem from="1663128171394" duration="6362000" />
-      <workItem from="1663207549592" duration="2694000" />
+      <workItem from="1663207549592" duration="4682000" />
+      <workItem from="1663218282875" duration="574000" />
     </task>
     <servers />
   </component>
