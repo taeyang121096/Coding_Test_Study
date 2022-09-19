@@ -50,9 +50,9 @@
     <property name="project.structure.side.proportion" value="0.27868852" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.B8428">
-    <configuration name="B1107" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJun.B1107" />
+  <component name="RunManager" selected="Application.B1182">
+    <configuration name="B1182" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJun.B1182" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
@@ -64,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B8428" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJun.B8428" />
+    <configuration name="B18428" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJun.B18428" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.B8428" />
+        <item itemvalue="Application.B1182" />
+        <item itemvalue="Application.B18428" />
         <item itemvalue="Application.MakeString_devc" />
         <item itemvalue="Application.DHCP_devc" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.B1107" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +221,8 @@
       <workItem from="1663218282875" duration="4808000" />
       <workItem from="1663293910015" duration="4497000" />
       <workItem from="1663390275172" duration="5563000" />
-      <workItem from="1663553248615" duration="382000" />
+      <workItem from="1663553248615" duration="7115000" />
+      <workItem from="1663576799147" duration="511000" />
     </task>
     <servers />
   </component>
