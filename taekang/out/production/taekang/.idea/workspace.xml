@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41efa10b-cb11-4e86-9730-966be3302ec1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="41efa10b-cb11-4e86-9730-966be3302ec1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +50,7 @@
     <property name="project.structure.side.proportion" value="0.27868852" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.DHCP">
+  <component name="RunManager" selected="Application.B8428">
     <configuration name="B1107" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekJun.B1107" />
       <module name="taekang" />
@@ -66,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B15686" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJun.B15686" />
+    <configuration name="B8428" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJun.B8428" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
@@ -79,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B1759" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJun.B1759" />
+    <configuration name="DHCP_devc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.DHCP_devc" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BaekJun.*" />
+          <option name="PATTERN" value="Programmers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B2589" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJun.B2589" />
+    <configuration name="MakeString_devc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.MakeString_devc" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BaekJun.*" />
+          <option name="PATTERN" value="Programmers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DHCP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programmers.DHCP" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.test" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DHCP" />
+        <item itemvalue="Application.B8428" />
+        <item itemvalue="Application.MakeString_devc" />
+        <item itemvalue="Application.DHCP_devc" />
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.B1107" />
-        <item itemvalue="Application.B2589" />
-        <item itemvalue="Application.B1759" />
-        <item itemvalue="Application.B15686" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +220,8 @@
       <workItem from="1663207549592" duration="4682000" />
       <workItem from="1663218282875" duration="4808000" />
       <workItem from="1663293910015" duration="4497000" />
-      <workItem from="1663390275172" duration="599000" />
+      <workItem from="1663390275172" duration="5563000" />
+      <workItem from="1663553248615" duration="382000" />
     </task>
     <servers />
   </component>
