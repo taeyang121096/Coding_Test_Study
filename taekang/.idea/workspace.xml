@@ -6,39 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="41efa10b-cb11-4e86-9730-966be3302ec1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJun/B1003_fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJun/BruteForce/B1003_fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJun/B1012_UkiNong.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJun/너비우선탐색/B1012_UkiNong.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJun/B1038.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJun/BruteForce/B1038.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJun/B10815_NumberCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJun/BinarySearch/B10815_NumberCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJun/B1107.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJun/BruteForce/B1107.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJun/B1149_RGBDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJun/BruteForce/B1149_RGBDistance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJun/B11726_2nTile.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJun/BruteForce/B11726_2nTile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJun/B11727_2nTIle2.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJun/BruteForce/B11727_2nTIle2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJun/B1260_DFSNBFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJun/너비우선탐색/B1260_DFSNBFS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJun/B1654_CutLan.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJun/BinarySearch/B1654_CutLan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJun/B1759.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJun/BruteForce/B1759.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJun/B18428.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJun/BruteForce/B18428.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJun/B1920_findNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJun/BinarySearch/B1920_findNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJun/B1920_findNum2.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJun/BinarySearch/B1920_findNum2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJun/B1931.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJun/Greedy/B1931.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJun/B1946.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJun/Greedy/B1946.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJun/B2110_RouterInstallation.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJun/BinarySearch/B2110_RouterInstallation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJun/B2178_maze.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJun/너비우선탐색/B2178_maze.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJun/B2178_maze_v2.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJun/너비우선탐색/B2178_maze_v2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJun/B2436.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJun/BruteForce/B2436.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJun/B2468_SafetyArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJun/너비우선탐색/B2468_SafetyArea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJun/B2512_Budget.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJun/BinarySearch/B2512_Budget.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJun/B2589.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJun/너비우선탐색/B2589.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJun/B2606_virus.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJun/너비우선탐색/B2606_virus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJun/B2606_virus_v2.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJun/너비우선탐색/B2606_virus_v2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJun/B2667_danji.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJun/너비우선탐색/B2667_danji.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJun/B2667_danji_v2.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJun/너비우선탐색/B2667_danji_v2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJun/B2805_CutWood.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJun/BinarySearch/B2805_CutWood.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJun/B2839_sugarDelivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJun/BruteForce/B2839_sugarDelivery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJun/B3079_Immigration.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJun/BinarySearch/B3079_Immigration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJun/B9095_plus123.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJun/BruteForce/B9095_plus123.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJun/B9184_FunFuncExec.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJun/BruteForce/B9184_FunFuncExec.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJun/B9461_Pado.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJun/BruteForce/B9461_Pado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/taekang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/taekang/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +42,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="jdk.selected.JAVA_MODULE" value="azul-16" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -90,7 +59,7 @@
       <recent name="$PROJECT_DIR$/BaekJun/너비우선탐색" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.B2436">
+  <component name="RunManager" selected="Application.B14225">
     <configuration name="B10819" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekJun.BackTracking.B10819" />
       <module name="taekang" />
@@ -104,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B1182" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJun.BackTracking.B1182" />
+    <configuration name="B14225" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJun.BruteForce.B14225" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
@@ -117,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B18428" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJun.BruteForce.B18428" />
+    <configuration name="B15661" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJun.BruteForce.B15661" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
@@ -143,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MakeString_devc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programmers.MakeString_devc" />
+    <configuration name="B2529" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJun.BruteForce.B2529" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Programmers.*" />
+          <option name="PATTERN" value="BaekJun.BruteForce.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B14225" />
+        <item itemvalue="Application.B2529" />
+        <item itemvalue="Application.B15661" />
         <item itemvalue="Application.B2436" />
         <item itemvalue="Application.B10819" />
-        <item itemvalue="Application.B1182" />
-        <item itemvalue="Application.B18428" />
-        <item itemvalue="Application.MakeString_devc" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +232,9 @@
       <workItem from="1663390275172" duration="5563000" />
       <workItem from="1663553248615" duration="7115000" />
       <workItem from="1663576799147" duration="2526000" />
-      <workItem from="1663639428935" duration="5113000" />
+      <workItem from="1663639428935" duration="7487000" />
+      <workItem from="1663725944666" duration="5607000" />
+      <workItem from="1663814362211" duration="6139000" />
     </task>
     <servers />
   </component>
