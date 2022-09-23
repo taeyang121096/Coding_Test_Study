@@ -59,9 +59,22 @@
       <recent name="$PROJECT_DIR$/BaekJun/너비우선탐색" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.B14225">
-    <configuration name="B10819" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJun.BackTracking.B10819" />
+  <component name="RunManager" selected="Application.B12919">
+    <configuration name="B10974" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJun.BruteForce.B10974" />
+      <module name="taekang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BaekJun.BruteForce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B12919" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJun.BruteForce.B12919" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
@@ -99,19 +112,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B2436" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJun.BruteForce.B2436" />
-      <module name="taekang" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BaekJun.BruteForce.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="B2529" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekJun.BruteForce.B2529" />
       <module name="taekang" />
@@ -127,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B12919" />
+        <item itemvalue="Application.B10974" />
         <item itemvalue="Application.B14225" />
         <item itemvalue="Application.B2529" />
         <item itemvalue="Application.B15661" />
-        <item itemvalue="Application.B2436" />
-        <item itemvalue="Application.B10819" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +234,9 @@
       <workItem from="1663576799147" duration="2526000" />
       <workItem from="1663639428935" duration="7487000" />
       <workItem from="1663725944666" duration="5607000" />
-      <workItem from="1663814362211" duration="6139000" />
+      <workItem from="1663814362211" duration="8099000" />
+      <workItem from="1663851897977" duration="505000" />
+      <workItem from="1663899039555" duration="3410000" />
     </task>
     <servers />
   </component>
