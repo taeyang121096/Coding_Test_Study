@@ -59,7 +59,7 @@
       <recent name="$PROJECT_DIR$/BaekJun/너비우선탐색" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.B12919">
+  <component name="RunManager" selected="Application.kakao_mergeUpdateUnMerge">
     <configuration name="B10974" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekJun.BruteForce.B10974" />
       <module name="taekang" />
@@ -86,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B14225" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJun.BruteForce.B14225" />
+    <configuration name="BadWordCatchProg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.Jule.BadWordCatchProg" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BaekJun.BruteForce.*" />
+          <option name="PATTERN" value="Programmers.Jule.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B15661" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJun.BruteForce.B15661" />
+    <configuration name="PlusWonSo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.Jule.PlusWonSo" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BaekJun.BruteForce.*" />
+          <option name="PATTERN" value="Programmers.Jule.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B2529" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJun.BruteForce.B2529" />
+    <configuration name="kakao_mergeUpdateUnMerge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.kakao_mergeUpdateUnMerge" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BaekJun.BruteForce.*" />
+          <option name="PATTERN" value="Programmers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.kakao_mergeUpdateUnMerge" />
+        <item itemvalue="Application.BadWordCatchProg" />
+        <item itemvalue="Application.PlusWonSo" />
         <item itemvalue="Application.B12919" />
         <item itemvalue="Application.B10974" />
-        <item itemvalue="Application.B14225" />
-        <item itemvalue="Application.B2529" />
-        <item itemvalue="Application.B15661" />
       </list>
     </recent_temporary>
   </component>
@@ -236,7 +236,8 @@
       <workItem from="1663725944666" duration="5607000" />
       <workItem from="1663814362211" duration="8099000" />
       <workItem from="1663851897977" duration="505000" />
-      <workItem from="1663899039555" duration="1012000" />
+      <workItem from="1663899039555" duration="3410000" />
+      <workItem from="1663989197312" duration="349000" />
     </task>
     <servers />
   </component>
