@@ -59,9 +59,9 @@
       <recent name="$PROJECT_DIR$/BaekJun/너비우선탐색" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.kakao_mergeUpdateUnMerge">
-    <configuration name="B10974" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJun.BruteForce.B10974" />
+  <component name="RunManager" selected="Application.B1025">
+    <configuration name="B1025" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJun.BruteForce.B1025" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
@@ -127,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B1025" />
         <item itemvalue="Application.kakao_mergeUpdateUnMerge" />
         <item itemvalue="Application.BadWordCatchProg" />
         <item itemvalue="Application.PlusWonSo" />
         <item itemvalue="Application.B12919" />
-        <item itemvalue="Application.B10974" />
       </list>
     </recent_temporary>
   </component>
@@ -239,6 +239,7 @@
       <workItem from="1663899039555" duration="3410000" />
       <workItem from="1663989197312" duration="349000" />
       <workItem from="1664005100081" duration="1045000" />
+      <workItem from="1664158268592" duration="4998000" />
     </task>
     <servers />
   </component>
