@@ -58,7 +58,7 @@
       <recent name="$PROJECT_DIR$/BaekJun/너비우선탐색" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.B13140">
+  <component name="RunManager" selected="Application.B17099">
     <configuration name="B1025" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekJun.BruteForce.B1025" />
       <module name="taekang" />
@@ -85,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BadWordCatchProg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programmers.Jule.BadWordCatchProg" />
+    <configuration name="B17099" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJun.BruteForce.B17099" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Programmers.Jule.*" />
+          <option name="PATTERN" value="BaekJun.BruteForce.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PlusWonSo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programmers.Jule.PlusWonSo" />
+    <configuration name="B17265" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJun.BruteForce.B17265" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Programmers.Jule.*" />
+          <option name="PATTERN" value="BaekJun.BruteForce.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B17099" />
+        <item itemvalue="Application.B17265" />
         <item itemvalue="Application.B13140" />
         <item itemvalue="Application.B1025" />
         <item itemvalue="Application.kakao_mergeUpdateUnMerge" />
-        <item itemvalue="Application.BadWordCatchProg" />
-        <item itemvalue="Application.PlusWonSo" />
       </list>
     </recent_temporary>
   </component>
@@ -240,6 +240,7 @@
       <workItem from="1664005100081" duration="1045000" />
       <workItem from="1664158268592" duration="5211000" />
       <workItem from="1664245562213" duration="5607000" />
+      <workItem from="1664417612196" duration="4675000" />
     </task>
     <servers />
   </component>
