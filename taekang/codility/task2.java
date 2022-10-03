@@ -7,16 +7,11 @@ public class task2 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-        int N = 1;
-        int K = 2;
+        int N = 5;
+        int K = 8;
         if (N >= K) {
             System.out.println(1);
             System.exit(0);
-        }
-        int[] dp = new int[N + 1];
-        dp[1] = 1;
-        for (int i = 2; i < dp.length; i++) {
-            dp[i] = dp[i - 1] + i;
         }
 
         int sum = 0;
