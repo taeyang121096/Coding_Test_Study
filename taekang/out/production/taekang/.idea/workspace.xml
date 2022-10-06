@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="41efa10b-cb11-4e86-9730-966be3302ec1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJun/BinarySearch/B3020.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJun/BinarySearch/B3020.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,9 +58,9 @@
       <recent name="$PROJECT_DIR$/BaekJun/너비우선탐색" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.B3649">
-    <configuration name="B2116" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJun.BruteForce.B2116" />
+  <component name="RunManager" selected="Application.B23352">
+    <configuration name="B23352" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJun.BruteForce.B23352" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
@@ -78,7 +77,7 @@
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BaekJun.BinarySearch.*" />
+          <option name="PATTERN" value="BaekJun.BruteForce.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,7 +90,7 @@
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BaekJun.BinarySearch.*" />
+          <option name="PATTERN" value="BaekJun.BruteForce.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,7 +103,7 @@
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BaekJun.BinarySearch.*" />
+          <option name="PATTERN" value="BaekJun.BruteForce.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,7 +116,7 @@
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BaekJun.BinarySearch.*" />
+          <option name="PATTERN" value="BaekJun.BruteForce.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B23352" />
         <item itemvalue="Application.B3649" />
         <item itemvalue="Application.B6236" />
         <item itemvalue="Application.B3020" />
         <item itemvalue="Application.B2417" />
-        <item itemvalue="Application.B2116" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +251,8 @@
       <workItem from="1664602353163" duration="3533000" />
       <workItem from="1664778372714" duration="11450000" />
       <workItem from="1664848566692" duration="12437000" />
-      <workItem from="1664931787391" duration="2715000" />
+      <workItem from="1664931787391" duration="5104000" />
+      <workItem from="1665028145727" duration="3408000" />
     </task>
     <servers />
   </component>
