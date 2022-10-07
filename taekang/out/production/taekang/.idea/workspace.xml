@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="41efa10b-cb11-4e86-9730-966be3302ec1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/taekang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/taekang/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +59,20 @@
       <recent name="$PROJECT_DIR$/BaekJun/너비우선탐색" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.B23352">
+  <component name="RunManager" selected="Application.B7573">
+    <configuration name="B10816" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJun.BinarySearch.B10816" />
+      <module name="taekang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BaekJun.BinarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="B23352" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekJun.BruteForce.B23352" />
       <module name="taekang" />
@@ -72,25 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B2417" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJun.BinarySearch.B2417" />
+    <configuration name="B2343" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJun.BinarySearch.B2343" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BaekJun.BruteForce.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="B3020" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJun.BinarySearch.B3020" />
-      <module name="taekang" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BaekJun.BruteForce.*" />
+          <option name="PATTERN" value="BaekJun.BinarySearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B6236" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJun.BinarySearch.B6236" />
+    <configuration name="B7573" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJun.BruteForce.B7573" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
@@ -126,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B7573" />
+        <item itemvalue="Application.B10816" />
+        <item itemvalue="Application.B2343" />
         <item itemvalue="Application.B23352" />
         <item itemvalue="Application.B3649" />
-        <item itemvalue="Application.B6236" />
-        <item itemvalue="Application.B3020" />
-        <item itemvalue="Application.B2417" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +253,9 @@
       <workItem from="1664778372714" duration="11450000" />
       <workItem from="1664848566692" duration="12437000" />
       <workItem from="1664931787391" duration="5104000" />
-      <workItem from="1665028145727" duration="3408000" />
+      <workItem from="1665028145727" duration="15842000" />
+      <workItem from="1665108108631" duration="6361000" />
+      <workItem from="1665115292078" duration="791000" />
     </task>
     <servers />
   </component>
