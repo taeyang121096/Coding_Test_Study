@@ -16,6 +16,7 @@ public class B7573 {
                     list.get(j)[1] <= list.get(k)[1] &&
                     list.get(k)[1] <= list.get(j)[1] + nextY) {
                 cnt++;
+                System.out.println(list.get(i)[0] + " " + list.get(i)[1] + " / " + list.get(j)[0] + " " + list.get(j)[1] + " / " + list.get(k)[0] + " " + list.get(k)[1]);
             }
         }
         return cnt;
