@@ -1,7 +1,6 @@
-package SW;
+package SWEA;
 
 import java.io.*;
-import java.util.*;
 
 public class SW_1216 {
     public static void main(String[] args) throws IOException {

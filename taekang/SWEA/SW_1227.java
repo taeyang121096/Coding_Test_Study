@@ -1,20 +1,20 @@
-package SW;
+package SWEA;
 
 import java.io.*;
 import java.util.*;
 
-public class SW_1226 {
+public class SW_1227 {
     public static int[][] map;
     public static int[][] dir = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
     public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
         for (int T = 1; T <= 10; T++) {
-            map = new int[16][16];
+            map = new int[100][100];
             int N = Integer.parseInt(br.readLine()); // 1..2..
-            for (int i = 0; i < 16; i++) {
+            for (int i = 0; i < 100; i++) {
                 String str = br.readLine(); //
-                for (int j = 0; j < 16; j++) {
+                for (int j = 0; j < 100; j++) {
                     map[i][j] = str.charAt(j) - 48; //
                 }
             }
@@ -26,8 +26,8 @@ public class SW_1226 {
 //                System.out.println();
 //            }
 
-            for (int i = 0; i < 16; i++) {
-                for (int j = 0; j < 16; j++) {
+            for (int i = 0; i < 100; i++) {
+                for (int j = 0; j < 100; j++) {
                     if(map[i][j] == 2){
                         if(bfs(i, j)){
                             System.out.println("#" + N + " " + 1);
@@ -43,7 +43,7 @@ public class SW_1226 {
     }
 
     private static boolean bfs(int r, int c) {
-        boolean[][] check = new boolean[16][16];
+        boolean[][] check = new boolean[100][100];
         Queue<int[]> q = new LinkedList<>();
         q.offer(new int[]{r, c});
         check[r][c] = true;
@@ -55,10 +55,10 @@ public class SW_1226 {
                 int nr = tmp[0] + d[0];
                 int nc = tmp[1] + d[1];
 
-                if(nr >=0 && nc >= 0 && nr <=16 && nc <= 16 && !check[nr][nc] && map[nr][nc] == 0){
+                if(nr >=0 && nc >= 0 && nr <=100 && nc <= 100 && !check[nr][nc] && map[nr][nc] == 0){
                     q.offer(new int[]{nr, nc});
                     check[nr][nc] = true;
-                } else if (nr >= 0 && nc >= 0 && nr <= 16 && nc <= 16 && !check[nr][nc] && map[nr][nc] == 3) {
+                } else if (nr >= 0 && nc >= 0 && nr <= 100 && nc <= 100 && !check[nr][nc] && map[nr][nc] == 3) {
                     return true;
                 }
             }

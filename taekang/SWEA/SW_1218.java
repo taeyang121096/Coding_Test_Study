@@ -1,4 +1,4 @@
-package SW;
+package SWEA;
 
 import java.util.*;
 import java.io.*;
