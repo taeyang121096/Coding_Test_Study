@@ -1,4 +1,4 @@
-package SWEA.D3;
+package SWEA.D3.day1;
 
 import java.io.*;
 import java.util.*;
