@@ -64,9 +64,9 @@
       <recent name="inflearn.chapter7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SW_10965">
-    <configuration name="SW_10965" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA.D3.day3.SW_10965" />
+  <component name="RunManager" selected="Application.SW_8104">
+    <configuration name="SW_8104" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEA.D3.day3.SW_8104" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
@@ -78,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SW_11285" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA.D3.day3.SW_11285" />
+    <configuration name="SW_8338" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEA.D3.day3.SW_8338" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
@@ -91,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SW_11315" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA.D3.day3.SW_11315" />
+    <configuration name="SW_8457" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEA.D3.day3.SW_8457" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
@@ -104,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SW_11387" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA.D3.day3.SW_11387" />
+    <configuration name="SW_8840" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEA.D3.day3.SW_8840" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
@@ -117,8 +117,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SW_11445" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA.D3.day3.SW_11445" />
+    <configuration name="SW_9839" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEA.D3.day3.SW_9839" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
@@ -132,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SW_10965" />
-        <item itemvalue="Application.SW_11285" />
-        <item itemvalue="Application.SW_11315" />
-        <item itemvalue="Application.SW_11387" />
-        <item itemvalue="Application.SW_11445" />
+        <item itemvalue="Application.SW_8104" />
+        <item itemvalue="Application.SW_8338" />
+        <item itemvalue="Application.SW_8457" />
+        <item itemvalue="Application.SW_8840" />
+        <item itemvalue="Application.SW_9839" />
       </list>
     </recent_temporary>
   </component>
@@ -291,7 +291,10 @@
       <workItem from="1668418381254" duration="665000" />
       <workItem from="1668423573653" duration="3562000" />
       <workItem from="1668483962390" duration="6412000" />
-      <workItem from="1668490682550" duration="692000" />
+      <workItem from="1668490682550" duration="7482000" />
+      <workItem from="1668519359614" duration="1885000" />
+      <workItem from="1668601889991" duration="9000" />
+      <workItem from="1668601993942" duration="6363000" />
     </task>
     <servers />
   </component>
