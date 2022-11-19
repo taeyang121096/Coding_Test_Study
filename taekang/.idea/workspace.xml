@@ -64,13 +64,13 @@
       <recent name="inflearn.chapter7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SW_8104">
-    <configuration name="SW_8104" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA.D3.day3.SW_8104" />
+  <component name="RunManager" selected="Application.SW_1860">
+    <configuration name="SW_1860" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEA.D3.day4.SW_1860" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SWEA.D3.day3.*" />
+          <option name="PATTERN" value="SWEA.D3.day4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SW_8338" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA.D3.day3.SW_8338" />
+    <configuration name="SW_4371" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEA.D3.day4.SW_4371" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SWEA.D3.day3.*" />
+          <option name="PATTERN" value="SWEA.D3.day4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SW_8457" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA.D3.day3.SW_8457" />
+    <configuration name="SW_5215" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEA.D3.day4.SW_5215" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SWEA.D3.day3.*" />
+          <option name="PATTERN" value="SWEA.D3.day4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SW_8840" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA.D3.day3.SW_8840" />
+    <configuration name="SW_7576" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEA.SW_7576" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SWEA.D3.day3.*" />
+          <option name="PATTERN" value="SWEA.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SW_9839" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA.D3.day3.SW_9839" />
+    <configuration name="SW_7675" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEA.SW_7675" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SWEA.D3.day3.*" />
+          <option name="PATTERN" value="SWEA.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SW_8104" />
-        <item itemvalue="Application.SW_8338" />
-        <item itemvalue="Application.SW_8457" />
-        <item itemvalue="Application.SW_8840" />
-        <item itemvalue="Application.SW_9839" />
+        <item itemvalue="Application.SW_1860" />
+        <item itemvalue="Application.SW_4371" />
+        <item itemvalue="Application.SW_5215" />
+        <item itemvalue="Application.SW_7576" />
+        <item itemvalue="Application.SW_7675" />
       </list>
     </recent_temporary>
   </component>
@@ -295,6 +295,8 @@
       <workItem from="1668519359614" duration="1885000" />
       <workItem from="1668601889991" duration="9000" />
       <workItem from="1668601993942" duration="6363000" />
+      <workItem from="1668781144092" duration="1340000" />
+      <workItem from="1668830693522" duration="12547000" />
     </task>
     <servers />
   </component>
