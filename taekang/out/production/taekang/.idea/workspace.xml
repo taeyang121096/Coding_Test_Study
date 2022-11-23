@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="41efa10b-cb11-4e86-9730-966be3302ec1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/taekang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/taekang/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,9 +63,48 @@
       <recent name="inflearn.chapter7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SW_7675">
-    <configuration name="SW_7675" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA.SW_7675" />
+  <component name="RunManager" selected="Application.Solution1">
+    <configuration name="SW_1860" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEA.D3.day4.SW_1860" />
+      <module name="taekang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SWEA.D3.day4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SW_4371" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEA.D3.day4.SW_4371" />
+      <module name="taekang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SWEA.D3.day4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SW_5215" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEA.D3.day4.SW_5215" />
+      <module name="taekang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SWEA.D3.day4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SW_7576" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEA.SW_7576" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
@@ -78,51 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SW_7853" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA.D3.SW_7853" />
+    <configuration name="Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codility.softeer_bootcamp.Solution1" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SWEA.D3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SW_8104" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA.D3.day3.SW_8104" />
-      <module name="taekang" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SWEA.D3.day3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SW_8338" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA.D3.day3.SW_8338" />
-      <module name="taekang" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SWEA.D3.day3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SW_8457" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA.D3.day3.SW_8457" />
-      <module name="taekang" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SWEA.D3.day3.*" />
+          <option name="PATTERN" value="codility.softeer_bootcamp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SW_7675" />
-        <item itemvalue="Application.SW_7853" />
-        <item itemvalue="Application.SW_8104" />
-        <item itemvalue="Application.SW_8338" />
-        <item itemvalue="Application.SW_8457" />
+        <item itemvalue="Application.Solution1" />
+        <item itemvalue="Application.SW_1860" />
+        <item itemvalue="Application.SW_4371" />
+        <item itemvalue="Application.SW_5215" />
+        <item itemvalue="Application.SW_7576" />
       </list>
     </recent_temporary>
   </component>
@@ -296,7 +295,11 @@
       <workItem from="1668601889991" duration="9000" />
       <workItem from="1668601993942" duration="6363000" />
       <workItem from="1668781144092" duration="1340000" />
-      <workItem from="1668830693522" duration="389000" />
+      <workItem from="1668830693522" duration="12547000" />
+      <workItem from="1668852030796" duration="297000" />
+      <workItem from="1668906033730" duration="82000" />
+      <workItem from="1668923827344" duration="8000" />
+      <workItem from="1669001676121" duration="2129000" />
     </task>
     <servers />
   </component>

@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41efa10b-cb11-4e86-9730-966be3302ec1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/codility/softeer_bootcamp/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codility/softeer_bootcamp/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codility/softeer_bootcamp/Solution3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codility/softeer_bootcamp/Solution4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/taekang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/taekang/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -64,7 +68,7 @@
       <recent name="inflearn.chapter7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SW_1860">
+  <component name="RunManager" selected="Application.Solution2">
     <configuration name="SW_1860" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SWEA.D3.day4.SW_1860" />
       <module name="taekang" />
@@ -104,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SW_7576" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA.SW_7576" />
+    <configuration name="Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codility.softeer_bootcamp.Solution1" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SWEA.*" />
+          <option name="PATTERN" value="codility.softeer_bootcamp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SW_7675" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA.SW_7675" />
+    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codility.softeer_bootcamp.Solution2" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SWEA.*" />
+          <option name="PATTERN" value="codility.softeer_bootcamp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution2" />
+        <item itemvalue="Application.Solution1" />
         <item itemvalue="Application.SW_1860" />
         <item itemvalue="Application.SW_4371" />
         <item itemvalue="Application.SW_5215" />
-        <item itemvalue="Application.SW_7576" />
-        <item itemvalue="Application.SW_7675" />
       </list>
     </recent_temporary>
   </component>
@@ -297,6 +301,11 @@
       <workItem from="1668601993942" duration="6363000" />
       <workItem from="1668781144092" duration="1340000" />
       <workItem from="1668830693522" duration="12547000" />
+      <workItem from="1668852030796" duration="297000" />
+      <workItem from="1668906033730" duration="82000" />
+      <workItem from="1668923827344" duration="8000" />
+      <workItem from="1669001676121" duration="9541000" />
+      <workItem from="1669173243989" duration="31000" />
     </task>
     <servers />
   </component>
