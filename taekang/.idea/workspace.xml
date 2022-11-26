@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41efa10b-cb11-4e86-9730-966be3302ec1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/codility/softeer_bootcamp/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codility/softeer_bootcamp/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codility/softeer_bootcamp/Solution3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codility/softeer_bootcamp/Solution4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/taekang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/taekang/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -68,7 +64,7 @@
       <recent name="inflearn.chapter7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution2">
+  <component name="RunManager" selected="Application.Solution3">
     <configuration name="SW_1860" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SWEA.D3.day4.SW_1860" />
       <module name="taekang" />
@@ -84,19 +80,6 @@
     </configuration>
     <configuration name="SW_4371" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SWEA.D3.day4.SW_4371" />
-      <module name="taekang" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SWEA.D3.day4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SW_5215" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA.D3.day4.SW_5215" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
@@ -134,13 +117,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.chocalate.move_move.Solution3" />
+      <module name="taekang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Programmers.chocalate.move_move.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution3" />
         <item itemvalue="Application.Solution2" />
         <item itemvalue="Application.Solution1" />
         <item itemvalue="Application.SW_1860" />
         <item itemvalue="Application.SW_4371" />
-        <item itemvalue="Application.SW_5215" />
       </list>
     </recent_temporary>
   </component>
@@ -306,6 +302,7 @@
       <workItem from="1668923827344" duration="8000" />
       <workItem from="1669001676121" duration="9541000" />
       <workItem from="1669173243989" duration="31000" />
+      <workItem from="1669440624162" duration="2612000" />
     </task>
     <servers />
   </component>

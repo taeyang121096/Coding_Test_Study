@@ -63,7 +63,7 @@
       <recent name="inflearn.chapter7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution1">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="SW_1860" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SWEA.D3.day4.SW_1860" />
       <module name="taekang" />
@@ -90,25 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SW_5215" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA.D3.day4.SW_5215" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.chocalate.move_move.Solution" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SWEA.D3.day4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SW_7576" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA.SW_7576" />
-      <module name="taekang" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SWEA.*" />
+          <option name="PATTERN" value="Programmers.chocalate.move_move.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,13 +116,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codility.softeer_bootcamp.Solution2" />
+      <module name="taekang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codility.softeer_bootcamp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Solution2" />
         <item itemvalue="Application.Solution1" />
         <item itemvalue="Application.SW_1860" />
         <item itemvalue="Application.SW_4371" />
-        <item itemvalue="Application.SW_5215" />
-        <item itemvalue="Application.SW_7576" />
       </list>
     </recent_temporary>
   </component>
@@ -299,7 +299,9 @@
       <workItem from="1668852030796" duration="297000" />
       <workItem from="1668906033730" duration="82000" />
       <workItem from="1668923827344" duration="8000" />
-      <workItem from="1669001676121" duration="2129000" />
+      <workItem from="1669001676121" duration="9541000" />
+      <workItem from="1669173243989" duration="31000" />
+      <workItem from="1669440624162" duration="697000" />
     </task>
     <servers />
   </component>
