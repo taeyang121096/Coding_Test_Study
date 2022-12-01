@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="41efa10b-cb11-4e86-9730-966be3302ec1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/taekang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/taekang/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,13 +63,13 @@
       <recent name="inflearn.chapter7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution3">
-    <configuration name="SW_1860" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA.D3.day4.SW_1860" />
+  <component name="RunManager" selected="Application.DeliveryBox">
+    <configuration name="DeliveryBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.lv2.DeliveryBox" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SWEA.D3.day4.*" />
+          <option name="PATTERN" value="Programmers.lv2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SW_4371" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA.D3.day4.SW_4371" />
+    <configuration name="SW_1860" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEA.D3.day4.SW_1860" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
@@ -132,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeliveryBox" />
         <item itemvalue="Application.Solution3" />
         <item itemvalue="Application.Solution2" />
         <item itemvalue="Application.Solution1" />
         <item itemvalue="Application.SW_1860" />
-        <item itemvalue="Application.SW_4371" />
       </list>
     </recent_temporary>
   </component>
@@ -302,7 +301,8 @@
       <workItem from="1668923827344" duration="8000" />
       <workItem from="1669001676121" duration="9541000" />
       <workItem from="1669173243989" duration="31000" />
-      <workItem from="1669440624162" duration="2612000" />
+      <workItem from="1669440624162" duration="2736000" />
+      <workItem from="1669860473339" duration="212000" />
     </task>
     <servers />
   </component>
