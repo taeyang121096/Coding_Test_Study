@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="41efa10b-cb11-4e86-9730-966be3302ec1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/chocalate/move_move/second/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/chocalate/move_move/second/Solution1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +64,7 @@
       <recent name="inflearn.chapter7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DeliveryBox">
+  <component name="RunManager" selected="Application.Solution1">
     <configuration name="DeliveryBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Programmers.lv2.DeliveryBox" />
       <module name="taekang" />
@@ -77,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SW_1860" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA.D3.day4.SW_1860" />
+    <configuration name="Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codility.softeer_bootcamp.Solution1" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SWEA.D3.day4.*" />
+          <option name="PATTERN" value="codility.softeer_bootcamp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,11 +92,11 @@
       </method>
     </configuration>
     <configuration name="Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codility.softeer_bootcamp.Solution1" />
+      <option name="MAIN_CLASS_NAME" value="Programmers.chocalate.move_move.second.Solution1" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codility.softeer_bootcamp.*" />
+          <option name="PATTERN" value="Programmers.chocalate.move_move.second.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution1" />
         <item itemvalue="Application.DeliveryBox" />
         <item itemvalue="Application.Solution3" />
         <item itemvalue="Application.Solution2" />
         <item itemvalue="Application.Solution1" />
-        <item itemvalue="Application.SW_1860" />
       </list>
     </recent_temporary>
   </component>
@@ -303,6 +304,7 @@
       <workItem from="1669173243989" duration="31000" />
       <workItem from="1669440624162" duration="2736000" />
       <workItem from="1669860473339" duration="212000" />
+      <workItem from="1670052165232" duration="827000" />
     </task>
     <servers />
   </component>
@@ -358,6 +360,19 @@
           <url>file://$PROJECT_DIR$/SWEA/D3/day3/SW_11315.java</url>
           <line>37</line>
           <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Programmers/chocalate/move_move/second/Solution1.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Programmers/chocalate/move_move/second/Solution1.java</url>
+          <line>7</line>
+          <properties class="Programmers.chocalate.move_move.second.Solution1" method="dfs">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
