@@ -63,7 +63,7 @@
       <recent name="inflearn.chapter7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MakeMax">
+  <component name="RunManager" selected="Application.Solution2 (1)">
     <configuration name="DeliveryBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Programmers.lv2.DeliveryBox" />
       <module name="taekang" />
@@ -116,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codility.softeer_bootcamp.Solution2" />
+    <configuration name="Solution2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.tmax.Solution2" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codility.softeer_bootcamp.*" />
+          <option name="PATTERN" value="Programmers.tmax.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution2 (1)" />
         <item itemvalue="Application.MakeMax" />
         <item itemvalue="Application.Solution1" />
         <item itemvalue="Application.DeliveryBox" />
         <item itemvalue="Application.Solution3" />
-        <item itemvalue="Application.Solution2" />
       </list>
     </recent_temporary>
   </component>
@@ -319,6 +319,9 @@
       <workItem from="1670052165232" duration="988000" />
       <workItem from="1670054058433" duration="10000" />
       <workItem from="1670055099272" duration="31000" />
+      <workItem from="1670327204558" duration="1340000" />
+      <workItem from="1670419377514" duration="40000" />
+      <workItem from="1670472604357" duration="630000" />
     </task>
     <servers />
   </component>
