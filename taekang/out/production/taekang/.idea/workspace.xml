@@ -63,7 +63,7 @@
       <recent name="inflearn.chapter7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution2 (1)">
+  <component name="RunManager" selected="Application.SelectOrange">
     <configuration name="DeliveryBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Programmers.lv2.DeliveryBox" />
       <module name="taekang" />
@@ -83,6 +83,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Programmers.lv2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectOrange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.lv1.SelectOrange" />
+      <module name="taekang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Programmers.lv1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,26 +142,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programmers.chocalate.move_move.Solution3" />
-      <module name="taekang" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Programmers.chocalate.move_move.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SelectOrange" />
         <item itemvalue="Application.Solution2 (1)" />
         <item itemvalue="Application.MakeMax" />
         <item itemvalue="Application.Solution1" />
         <item itemvalue="Application.DeliveryBox" />
-        <item itemvalue="Application.Solution3" />
       </list>
     </recent_temporary>
   </component>
@@ -321,7 +321,9 @@
       <workItem from="1670055099272" duration="31000" />
       <workItem from="1670327204558" duration="1340000" />
       <workItem from="1670419377514" duration="40000" />
-      <workItem from="1670472604357" duration="630000" />
+      <workItem from="1670472604357" duration="6086000" />
+      <workItem from="1670548850330" duration="2839000" />
+      <workItem from="1670560148420" duration="1301000" />
     </task>
     <servers />
   </component>
