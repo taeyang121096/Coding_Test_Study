@@ -63,7 +63,7 @@
       <recent name="inflearn.chapter7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.playFairCipher">
+  <component name="RunManager" selected="Application.drawPoint">
     <configuration name="MakeMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Programmers.lv2.MakeMax" />
       <module name="taekang" />
@@ -83,19 +83,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Programmers.lv1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codility.softeer_bootcamp.Solution1" />
-      <module name="taekang" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codility.softeer_bootcamp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,6 +116,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="drawPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.lv2.drawPoint" />
+      <module name="taekang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Programmers.lv2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="playFairCipher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Softeer.playFairCipher" />
       <module name="taekang" />
@@ -144,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.drawPoint" />
         <item itemvalue="Application.playFairCipher" />
         <item itemvalue="Application.SelectOrange" />
         <item itemvalue="Application.Solution2 (1)" />
         <item itemvalue="Application.MakeMax" />
-        <item itemvalue="Application.Solution1" />
       </list>
     </recent_temporary>
   </component>
@@ -325,7 +325,9 @@
       <workItem from="1670548850330" duration="2839000" />
       <workItem from="1670560148420" duration="2462000" />
       <workItem from="1670684034132" duration="31000" />
-      <workItem from="1670737741121" duration="6146000" />
+      <workItem from="1670737741121" duration="6335000" />
+      <workItem from="1670751769812" duration="497000" />
+      <workItem from="1670848595915" duration="2021000" />
     </task>
     <servers />
   </component>
@@ -384,11 +386,6 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Softeer/playFairCipher.java</url>
-          <line>83</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Softeer/playFairCipher.java</url>
           <line>110</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
@@ -401,16 +398,6 @@
           <url>file://$PROJECT_DIR$/Softeer/playFairCipher.java</url>
           <line>108</line>
           <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Softeer/playFairCipher.java</url>
-          <line>77</line>
-          <option name="timeStamp" value="28" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Softeer/playFairCipher.java</url>
-          <line>80</line>
-          <option name="timeStamp" value="29" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
