@@ -63,52 +63,39 @@
       <recent name="inflearn.chapter7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WooBakSooYeol">
-    <configuration name="SelectOrange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programmers.lv1.SelectOrange" />
-      <module name="taekang" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Programmers.lv1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programmers.chocalate.move_move.second.Solution1" />
-      <module name="taekang" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Programmers.chocalate.move_move.second.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programmers.tmax.Solution2" />
-      <module name="taekang" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Programmers.tmax.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.billboard">
     <configuration name="WooBakSooYeol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Programmers.lv2.WooBakSooYeol" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Programmers.lv2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="billboard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Softeer.billboard" />
+      <module name="taekang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Softeer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="codingTestSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Softeer.codingTestSet" />
+      <module name="taekang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Softeer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.billboard" />
+        <item itemvalue="Application.codingTestSet" />
         <item itemvalue="Application.WooBakSooYeol" />
         <item itemvalue="Application.drawPoint" />
         <item itemvalue="Application.playFairCipher" />
-        <item itemvalue="Application.SelectOrange" />
-        <item itemvalue="Application.Solution2 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -327,7 +314,9 @@
       <workItem from="1670684034132" duration="31000" />
       <workItem from="1670737741121" duration="6335000" />
       <workItem from="1670751769812" duration="497000" />
-      <workItem from="1670848595915" duration="5715000" />
+      <workItem from="1670848595915" duration="6402000" />
+      <workItem from="1670894915314" duration="29000" />
+      <workItem from="1670900976627" duration="8235000" />
     </task>
     <servers />
   </component>
@@ -398,11 +387,6 @@
           <url>file://$PROJECT_DIR$/Softeer/playFairCipher.java</url>
           <line>108</line>
           <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Programmers/lv2/WooBakSooYeol.java</url>
-          <line>47</line>
-          <option name="timeStamp" value="40" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

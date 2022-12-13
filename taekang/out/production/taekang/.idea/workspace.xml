@@ -63,20 +63,7 @@
       <recent name="inflearn.chapter7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.drawPoint">
-    <configuration name="MakeMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programmers.lv2.MakeMax" />
-      <module name="taekang" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Programmers.lv2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.codingTestSet">
     <configuration name="SelectOrange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Programmers.lv1.SelectOrange" />
       <module name="taekang" />
@@ -90,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programmers.chocalate.move_move.second.Solution1" />
+    <configuration name="WooBakSooYeol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.lv2.WooBakSooYeol" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Programmers.chocalate.move_move.second.*" />
+          <option name="PATTERN" value="Programmers.lv2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programmers.tmax.Solution2" />
+    <configuration name="codingTestSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Softeer.codingTestSet" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Programmers.tmax.*" />
+          <option name="PATTERN" value="Softeer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.codingTestSet" />
+        <item itemvalue="Application.WooBakSooYeol" />
         <item itemvalue="Application.drawPoint" />
         <item itemvalue="Application.playFairCipher" />
         <item itemvalue="Application.SelectOrange" />
-        <item itemvalue="Application.Solution2 (1)" />
-        <item itemvalue="Application.MakeMax" />
       </list>
     </recent_temporary>
   </component>
@@ -327,6 +314,9 @@
       <workItem from="1670684034132" duration="31000" />
       <workItem from="1670737741121" duration="6335000" />
       <workItem from="1670751769812" duration="497000" />
+      <workItem from="1670848595915" duration="6402000" />
+      <workItem from="1670894915314" duration="29000" />
+      <workItem from="1670900976627" duration="589000" />
     </task>
     <servers />
   </component>
