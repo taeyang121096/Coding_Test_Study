@@ -63,7 +63,20 @@
       <recent name="inflearn.chapter7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SeatManagement">
+  <component name="RunManager" selected="Application.GBC">
+    <configuration name="GBC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Softeer.GBC" />
+      <module name="taekang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Softeer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SeatManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Softeer.SeatManagement" />
       <module name="taekang" />
@@ -116,26 +129,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="drawPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programmers.lv2.drawPoint" />
-      <module name="taekang" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Programmers.lv2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GBC" />
         <item itemvalue="Application.SeatManagement" />
         <item itemvalue="Application.billboard" />
         <item itemvalue="Application.codingTestSet" />
         <item itemvalue="Application.WooBakSooYeol" />
-        <item itemvalue="Application.drawPoint" />
       </list>
     </recent_temporary>
   </component>
@@ -317,7 +317,8 @@
       <workItem from="1670848595915" duration="6402000" />
       <workItem from="1670894915314" duration="29000" />
       <workItem from="1670900976627" duration="8504000" />
-      <workItem from="1671002750762" duration="3166000" />
+      <workItem from="1671002750762" duration="8962000" />
+      <workItem from="1671186566453" duration="1296000" />
     </task>
     <servers />
   </component>
@@ -388,6 +389,19 @@
           <url>file://$PROJECT_DIR$/Softeer/playFairCipher.java</url>
           <line>108</line>
           <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Softeer/SeatManagement.java</url>
+          <line>170</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Softeer/SeatManagement.java</url>
+          <line>134</line>
+          <properties class="Softeer.SeatManagement">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="43" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
