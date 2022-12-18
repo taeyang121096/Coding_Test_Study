@@ -63,7 +63,20 @@
       <recent name="inflearn.chapter7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WayPointByRobot">
+  <component name="RunManager" selected="Application.KingOfWind">
+    <configuration name="AlmostCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sds.AlmostCircle" />
+      <module name="taekang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sds.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GBC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Softeer.GBC" />
       <module name="taekang" />
@@ -77,12 +90,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeatManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Softeer.SeatManagement" />
+    <configuration name="KingOfWind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sds.KingOfWind" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Softeer.*" />
+          <option name="PATTERN" value="sds.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayPoint2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sds.PlayPoint2" />
+      <module name="taekang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sds.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,39 +129,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="billboard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Softeer.billboard" />
-      <module name="taekang" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Softeer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="codingTestSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Softeer.codingTestSet" />
-      <module name="taekang" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Softeer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KingOfWind" />
+        <item itemvalue="Application.PlayPoint2" />
+        <item itemvalue="Application.AlmostCircle" />
         <item itemvalue="Application.WayPointByRobot" />
         <item itemvalue="Application.GBC" />
-        <item itemvalue="Application.SeatManagement" />
-        <item itemvalue="Application.billboard" />
-        <item itemvalue="Application.codingTestSet" />
       </list>
     </recent_temporary>
   </component>
@@ -319,6 +319,8 @@
       <workItem from="1670900976627" duration="8504000" />
       <workItem from="1671002750762" duration="8962000" />
       <workItem from="1671186566453" duration="6121000" />
+      <workItem from="1671248832782" duration="126000" />
+      <workItem from="1671340015777" duration="13268000" />
     </task>
     <servers />
   </component>
