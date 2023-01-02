@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="41efa10b-cb11-4e86-9730-966be3302ec1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/taekang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/taekang/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +64,7 @@
       <recent name="inflearn.chapter7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PlayPoint2">
+  <component name="RunManager" selected="Application.Solution3">
     <configuration name="AlmostCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sds.AlmostCircle" />
       <module name="taekang" />
@@ -77,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GBC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Softeer.GBC" />
+    <configuration name="KingOfWind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sds.KingOfWind" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Softeer.*" />
+          <option name="PATTERN" value="sds.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeatManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Softeer.SeatManagement" />
+    <configuration name="Solution3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Softeer.Solution3" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
@@ -131,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution3" />
+        <item itemvalue="Application.KingOfWind" />
         <item itemvalue="Application.PlayPoint2" />
         <item itemvalue="Application.AlmostCircle" />
         <item itemvalue="Application.WayPointByRobot" />
-        <item itemvalue="Application.GBC" />
-        <item itemvalue="Application.SeatManagement" />
       </list>
     </recent_temporary>
   </component>
@@ -320,7 +321,14 @@
       <workItem from="1671002750762" duration="8962000" />
       <workItem from="1671186566453" duration="6121000" />
       <workItem from="1671248832782" duration="126000" />
-      <workItem from="1671340015777" duration="6075000" />
+      <workItem from="1671340015777" duration="13268000" />
+      <workItem from="1671512240811" duration="1188000" />
+      <workItem from="1671628149961" duration="606000" />
+      <workItem from="1671855770168" duration="6299000" />
+      <workItem from="1671933209564" duration="138000" />
+      <workItem from="1671933489662" duration="3011000" />
+      <workItem from="1672016965868" duration="3985000" />
+      <workItem from="1672020971098" duration="793000" />
     </task>
     <servers />
   </component>
@@ -408,9 +416,14 @@
           <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/sds/AlmostCircle.java</url>
-          <line>71</line>
-          <option name="timeStamp" value="59" />
+          <url>file://$PROJECT_DIR$/Softeer/Solution3.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Softeer/Solution3.java</url>
+          <line>100</line>
+          <option name="timeStamp" value="56" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Softeer/SeatManagement.java</url>
@@ -420,15 +433,12 @@
           </properties>
           <option name="timeStamp" value="43" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/sds/AlmostCircle.java</url>
-          <line>55</line>
-          <properties class="sds.AlmostCircle" method="getMax">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="58" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/taekang$Solution3.ic" NAME="Solution3 Coverage Results" MODIFIED="1671876613785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Softeer.*</FILTER>
+    </SUITE>
   </component>
 </project>
