@@ -64,20 +64,7 @@
       <recent name="inflearn.chapter7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution3">
-    <configuration name="AlmostCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sds.AlmostCircle" />
-      <module name="taekang" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sds.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.sameCantorBeatString">
     <configuration name="KingOfWind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sds.KingOfWind" />
       <module name="taekang" />
@@ -130,13 +117,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="sameCantorBeatString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.lv2.sameCantorBeatString" />
+      <module name="taekang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Programmers.lv2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.sameCantorBeatString" />
         <item itemvalue="Application.Solution3" />
         <item itemvalue="Application.Solution1" />
         <item itemvalue="Application.KingOfWind" />
         <item itemvalue="Application.PlayPoint2" />
-        <item itemvalue="Application.AlmostCircle" />
       </list>
     </recent_temporary>
   </component>
@@ -332,6 +332,7 @@
       <workItem from="1672025972530" duration="3238000" />
       <workItem from="1672359842946" duration="1914000" />
       <workItem from="1672651778685" duration="43000" />
+      <workItem from="1672710044772" duration="1270000" />
     </task>
     <servers />
   </component>
