@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="41efa10b-cb11-4e86-9730-966be3302ec1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/taekang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/taekang/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +63,7 @@
       <recent name="inflearn.chapter7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.sameCantorBeatString">
+  <component name="RunManager" selected="Application.SW_gift">
     <configuration name="KingOfWind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sds.KingOfWind" />
       <module name="taekang" />
@@ -78,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PlayPoint2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sds.PlayPoint2" />
+    <configuration name="SW_gift" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dx.SW_gift" />
       <module name="taekang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sds.*" />
+          <option name="PATTERN" value="dx.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SW_gift" />
         <item itemvalue="Application.sameCantorBeatString" />
         <item itemvalue="Application.Solution3" />
         <item itemvalue="Application.Solution1" />
         <item itemvalue="Application.KingOfWind" />
-        <item itemvalue="Application.PlayPoint2" />
       </list>
     </recent_temporary>
   </component>
@@ -332,6 +331,8 @@
       <workItem from="1672025972530" duration="3238000" />
       <workItem from="1672359842946" duration="1914000" />
       <workItem from="1672651778685" duration="43000" />
+      <workItem from="1672710044772" duration="1552000" />
+      <workItem from="1673265734894" duration="556000" />
     </task>
     <servers />
   </component>
